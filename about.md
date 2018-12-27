@@ -48,7 +48,7 @@ Goals last set December 2017.
   - Currently trying to use Instagram to post images of drawings, videos of piano bits, and other attempts
   for me to revisit my childhood hobbies. They won't be good at first, but I think it'd be fun to (one day) look back at the progress.
 - 100 Days of Code
-  - Progress is on Github and on Twitter
+  - Progress is on Github
   - Check out the Rust cookbook
   - Learn OCaml
   - Style linter
