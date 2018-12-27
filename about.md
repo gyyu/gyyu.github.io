@@ -4,12 +4,11 @@ title: About
 comments: true
 ---
 
-### whoami Grace Yu
+### Grace Yu
 
-- Junior studying computer science at Carnegie Mellon University
-- Minoring in mathematical sciences || machine learning
-- Involved with functional programming, debate, D Flat Singers, and other funneries
-- Hopefully out to do good in this world
+A junior studying computer science at Carnegie Mellon University, minoring in
+mathematical sciences and machine learning. Involved with functional programming,
+debate, D Flat Singers, and other funneries. Hopefully out to do good in this world.
 
 ### Interests
 
@@ -54,7 +53,7 @@ Goals last set December 2017.
   - Learn OCaml
   - Style linter
 - StrongLifts
-  - Finished week 1 (12/27/2018)
+  - (12/27/2018) Finished week 1!
 
 ### People I Admire
 
