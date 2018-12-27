@@ -60,10 +60,10 @@ Goals last set December 2017.
 - My parents
 - Dr. Fernandez
 
+Thank you for believing in and supporting me. :)
+
 ### Images
 
 The image used as an icon is my Chinese name painted by my grandmother before she passed away.
 
 The image used in the homepage jumbotron is made by David Jin, a very talented friend of mine.
-
-Thank you for believing in and supporting me. :)
