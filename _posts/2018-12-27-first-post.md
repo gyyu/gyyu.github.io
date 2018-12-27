@@ -17,11 +17,14 @@ remember what I headed out to do, but on my way back as I saw the sun peeking ou
 
 Sure enough, one appeared. It was a double rainbow as well, and the picture fails to capture how it was
 the most clear and vivid rainbow I've seen in my life. Rainbows have always had a significant meaning in culture, from in Christianity signaling the promise of God to never destroy life again
-to acceptance of all kinds of love and identity.
+to acceptance of all kinds of love and identity. I enjoy adding silly meanings to things around me
+(as a child, I used to do this to an extent I'd make certain parts of everyday life difficult beyond seeming just very weird to other kids), and so I'll take it as some sort of sign for me to continue full speed ahead.
 
 I've always wanted to own a public plot of land on the Internet, not just as a digital flashy trophy case for
 life achievements and professional prowess, but more so to leave a part of myself somewhere beyond my head.
 Somewhere among this is a belief that I have something to say, but I'm not entirely sure exactly
 what yet. I'll work on it. I'll keep learning.
 
-In the meantime, I'm not very satisfied with where I'm at currently, and so I'll continue learning and discovering, and documenting my journey along the way for myself and any onlookers to see.
+In the meantime, I'm not very satisfied with where I'm at currently, and so I'll continue along and document my journey along the way for myself and any onlookers to see.
+
+Gl;hf!
