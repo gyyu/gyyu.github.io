@@ -66,4 +66,4 @@ Thank you for believing in and supporting me. :)
 
 The image used as an icon is my Chinese name painted by my grandmother before she passed away.
 
-The image used in the homepage jumbotron is made by David Jin, a very talented friend of mine.
+The image used in the homepage jumbotron is made by [David Jin](https://djin27.com/), a very talented friend of mine. Check out his website for more about him and other talents!
