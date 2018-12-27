@@ -1,85 +1,64 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About
 comments: true
 ---
 
-This website is built with Jekyll and Mediumish template for Jekyll. It is meant for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+### whoami Grace Yu
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mediumish-jekyll-template.png){: .shadow}
+- Junior studying computer science at Carnegie Mellon University
+- Minoring in mathematical sciences || machine learning
+- Involved with functional programming, debate, D Flat Singers, and other funneries
+- Hopefully out to do good in this world
 
-### Features
+### Interests
 
-- Built for Jekyll
-- Compatible with Github pages
-- Featured Posts
-- Index Pagination
-- Post Share
-- Post Categories
-- Prev/Next Link
-- Category Archives (this is not yet compatible with github pages though)
-- Jumbotron Categories
-- Integrations:
-    - Disqus Comments
-    - Google Analaytics
-    - Mailchimp Integration
-- Design Features:
-    - Bootstrap v4.x
-    - Font Awesome
-    - Masonry
-- Layouts:
-    - Default
-    - Post
-    - Page
-    - Archive
-    
-### How to Use
+- Gaming (StarCraft, League of Legends)
+- Functional programming
+- Piano
+- Drawing (Sketching, watercolor, acrylic, charcoal)
+- Singing
+- Cooking
+- Water rights and the environment
+- Reading (book reviews incoming, hopefully)
+- Biology
+- Writing
+- Trying to become an informed citizen of the world
 
-If you aren't familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked...just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! This page itself is free hosted on Github with the help of Jekyll and Mediumish template that you're currently previewing. If you are a beginner we recommend you start with [Jekyll's Docs](https://jekyllrb.com/docs/installation/){:target="_blank"}. Now if you know how to use Jekyll, let's move on to using Mediumish template in Jekyll:
+### Current Goals (and Progress)
 
-#### Using Mediumish
+Goals last set December 2017.
 
-Download or Fork *Mediumish for Jekyll*. 
-- In your local project, open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, disqus username, authors, Mailchimp list etc.
-- Mediumish requires 2 plugins: 
-    - <code>$ gem install jekyll-paginate</code>
-    - <code>$ gem install jekyll-archives</code>.
-- Edit the menu and footer copyrights in <code>default.html</code>
-- Start by adding your .md files in <code>_posts</code>. Mediumish already has a few as an example. 
-- YAML front matter
-    - featured post - <code>featured:true</code>
-    - exclude featured post from "All stories" loop to avoid duplicated posts - <code>hidden:true</code>
-    - post image - <code>image: assets/images/mypic.jpg</code>
-    - external post image - <code>image: "https://externalwebsite.com/image4.jpg" </code>
-    - page comments - <code>comments:true</code>
-    - meta description (optional) - <code>description: "this is my meta description"</code>
-    
-YAML Post Example:
-<pre>
----
-layout: post
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
-featured: true
----
-</pre>
+- Attend every class
+  - Complete readings before class
+  - Sleep properly so you aren’t so tired
+  - Bring food so you don’t go hungry
+  - Sit close to the front and take notes
+- Reach Dean’s List
+  - Go to Office Hours
+  - Start homework early
+  - Review notes early and frequently
+  - Study with friends
+- Complete the 100 Days of Code challenge
+- Read 12 books
+- Exercise regularly (n times per week)
 
-YAML Page Example
-<pre>
----
-layout: page
-title: Mediumish Template for Jekyll
-comments: true
----
-</pre>
+### Current Projects
 
-#### Contribute
+- Instagram
+  - Currently trying to use Instagram to post images of drawings, videos of piano bits, and other attempts
+  for me to revisit my childhood hobbies. They won't be good at first, but I think it'd be fun to (one day) look back at the progress.
+- 100 Days of Code
+  - Progress is on Github and on Twitter
+  - Check out the Rust cookbook
+  - Learn OCaml
+  - Style linter
+- StrongLifts
+  - Finished week 1 (12/27/2018)
 
-- [Clone the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-- Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-- Open a pull request on GitHub and describe the feature or fix.
+### People I Admire
 
+- My parents
+- Dr. Fernandez
 
-<a href="https://www.buymeacoffee.com/sal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+Thank you for believing in and supporting me. :)
