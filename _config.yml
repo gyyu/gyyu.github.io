@@ -1,7 +1,7 @@
 # Site
-name: "Grace Yu"
-description: "A corner on the Internet"
-meta_description: ":D"
+name: "grace yu"
+description: "just a thermodynamic miracle"
+meta_description: "o7"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -13,7 +13,7 @@ mailchimp-list: ''
 authors:
   grace:
     name: Grace
-    display_name: Grace
+    display_name: Gyudon
     email: gyyu@andrew.cmu.edu
     description: "no"
 

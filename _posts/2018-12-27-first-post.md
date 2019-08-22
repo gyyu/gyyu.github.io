@@ -3,7 +3,7 @@ layout: post
 title:  "First Post"
 author: grace
 categories: [ writing ]
-image: assets/images/winter-double-rainbow.jpg
+image: assets/images/posts/winter-double-rainbow.jpg
 featured: true
 hidden: true
 ---
@@ -16,9 +16,8 @@ A few days ago, I was driving back from Fairfax on an unusually warm winter day.
 remember what I headed out to do, but on my way back as I saw the sun peeking out from the edge of its clouds while it poured, I started searching for a rainbow.
 
 Sure enough, one appeared. It was a double rainbow as well, and the picture fails to capture how it was
-the most clear and vivid rainbow I've seen in my life. Rainbows have always had a significant meaning in culture, from in Christianity signaling the promise of God to never destroy life again
-to acceptance of all kinds of love and identity. I enjoy adding silly meanings to things around me
-(as a child, I used to do this to an extent I'd make certain parts of everyday life difficult beyond seeming just very weird to other kids), and so I'll take it as some sort of sign for me to continue full speed ahead.
+the most clear and vivid rainbow I've seen in my life. I enjoy adding silly meanings to things around me
+(as a child, I used to do this to an extent I'd make certain parts of everyday life difficult beyond seeming just very weird to other kids -- for example, I wouldn't talk to my friends unless the socks I randomly grabbed that morning included at least one pink sock), and so I'll take it as some sort of sign for me to continue full speed ahead.
 
 I've always wanted to own a public plot of land on the Internet, not just as a digital flashy trophy case for
 life achievements and professional prowess, but more so to leave a part of myself somewhere beyond my head.

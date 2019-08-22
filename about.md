@@ -6,16 +6,17 @@ comments: true
 
 ### Grace Yu
 
-A junior studying computer science at Carnegie Mellon University, minoring in
-mathematical sciences and machine learning. Involved with functional programming,
-debate, D Flat Singers, and other funneries. Hopefully out to do good in this world.
+A senior studying computer science at Carnegie Mellon University, minoring in
+mathematical sciences. Hopefully out to do good in this world.
 
 ### Interests
 
 - Gaming (StarCraft, League of Legends)
 - Functional programming
+- Machine learning
+- Computer systems
 - Piano
-- Drawing (Sketching, watercolor, acrylic, charcoal)
+- Drawing (sketching, watercolor, acrylic, charcoal)
 - Singing
 - Cooking
 - Water rights and the environment
@@ -25,8 +26,6 @@ debate, D Flat Singers, and other funneries. Hopefully out to do good in this wo
 - Trying to become an informed citizen of the world
 
 ### Current Goals (and Progress)
-
-Goals last set December 2017.
 
 - Attend every class
   - Complete readings before class
@@ -40,7 +39,7 @@ Goals last set December 2017.
   - Study with friends
 - Complete the 100 Days of Code challenge
 - Read 12 books
-- Exercise regularly (n times per week)
+- Exercise regularly
 
 ### Current Projects
 
@@ -49,18 +48,9 @@ Goals last set December 2017.
   for me to revisit my childhood hobbies. They won't be good at first, but I think it'd be fun to (one day) look back at the progress.
 - 100 Days of Code
   - Progress is on Github
-- StrongLifts
-  - (12/27/2018) Finished week 1!
-
-### People I Admire
-
-- My parents
-- Dr. Fernandez
-
-Thank you for believing in and supporting me. :)
 
 ### Images
 
-The image used as an icon is my Chinese name painted by my grandmother before she passed away.
+The image used as an icon is my Chinese name painted by my grandmother before she passed away. She did Chinese calligraphy, and I asked her to write my name. This was before her illness worsened, but you can already see the tremors seeping into her strokes.
 
-The image used in the homepage jumbotron is made by [David Jin](https://djin27.com/), a very talented friend of mine. Check out his website for more about him and other talents!
+The image used in the homepage jumbotron is made by David Jin, a very talented friend of mine.
