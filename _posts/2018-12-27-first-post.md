@@ -4,8 +4,8 @@ title:  "First Post"
 author: grace
 categories: [ writing ]
 image: assets/images/posts/winter-double-rainbow.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 I'm not new to owning an Internet space -- as a child, I had a fairly prolific Internet presence, most notably
