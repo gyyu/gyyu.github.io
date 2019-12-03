@@ -1,5 +1,5 @@
 # Site
-name: "grace yu"
+name: "gyudon"
 description: "just a thermodynamic miracle"
 meta_description: "o7"
 logo: 'assets/images/logo.png'
@@ -14,7 +14,7 @@ authors:
   grace:
     name: Grace
     display_name: Gyudon
-    email: gyyu@andrew.cmu.edu
+    email: graceyyu@gmail.com
     description: "no"
 
 # Plugins

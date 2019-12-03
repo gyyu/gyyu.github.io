@@ -1,8 +1,8 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-Version: 1.0.22 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+Version: 1.0.22
+License: https://www.wowthemes.net/freebies-license/
 */
  .mainheading {
      padding:1rem 0rem;
@@ -219,9 +219,6 @@ License: https://www.wowthemes.net/freebies-license/
  .mediumnavigation .navbar-brand img {
      max-height:30px;
      margin-right:5px;
-}
- .mainheading h1.sitetitle {
-     font-family:Righteous;
 }
  .mainheading h1.posttitle {
      font-weight:700;
@@ -580,7 +577,7 @@ License: https://www.wowthemes.net/freebies-license/
  iframe {
     max-width:100%;
 }
-.transpdark {    
+.transpdark {
     background: rgba(0,0,0,0.75);
     color: #fff;
 }
@@ -602,7 +599,7 @@ License: https://www.wowthemes.net/freebies-license/
          margin:0;
     }
 }
-.jumbotron.fortags { 
+.jumbotron.fortags {
          margin-top: 3rem;
          padding:0;
          border-radius:0;
