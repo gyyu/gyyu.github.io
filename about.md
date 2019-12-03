@@ -32,9 +32,9 @@ Mellon University, and graduated Fall 2019. Hopefully out to do good in this wor
 - Read 12 books
   - Finished: Water for Elephants by Sara Gruen (sometime in October 2019). Picked this up
   after my library had a collection of books that had been banned at schools, which intrigued
-  me in a defiant manner "You told me not to do this? Fine, I'll go and do it now!". I didn't
+  me in that immature, defiant manner -- you know, the: "You told me not to do this? Fine, I'll go and do it now _just_ because you said not to!". I didn't
   read anything about it going in, but I'm pretty sure it was banned just because of
-  some obscenities that is a circus's normalcy -- it's a circus, after all.
+  some obscenities that are a circus's normalcy -- it's a circus, after all.
   - Finished: The Three Body Problem by Liu Cixin (sometime in November 2019). The background set in
   the Cultural Revolution and the Red Guard had some personal ties to me. I enjoyed it. I also have
   been meaning to read more Chinese literature. I used to always say I'd kill myself in the event of a
