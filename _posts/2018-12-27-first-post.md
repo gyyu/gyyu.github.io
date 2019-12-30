@@ -3,7 +3,7 @@ layout: post
 title:  "First Post"
 author: grace
 categories: [ writing ]
-image: assets/images/posts/winter-double-rainbow.jpg
+image: assets/images/posts/20181227/winter-double-rainbow.jpg
 featured: false
 hidden: false
 ---
