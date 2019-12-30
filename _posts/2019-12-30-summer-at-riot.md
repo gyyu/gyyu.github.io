@@ -317,7 +317,7 @@ it exactly what it was, when even I had never done that.
 
 Michael continued to be an amazing mentor who was pretty involved with the Riot community and culture, and I had asked him what he had thought
 when the Kotaku article had come out and also about the walk-out. I remember one time looking over and seeing him reading the
-[one year follow-up Cecilia](https://kotaku.com/riot-games-and-sexism-one-year-later-1837041215) (the author of the first Kotaku article) had written about Riot's improvements.
+[one year follow-up](https://kotaku.com/riot-games-and-sexism-one-year-later-1837041215) Cecilia (the author of the first Kotaku article) had written about Riot's improvements.
 I frequently saw this, and noted how he seemed very invested in Riot and its culture. It was a totally different experience from what I had seen at any other company. I asked him if he thought
 about quitting. I asked this question to many people: I asked it to Haru, a senior software engineer on our team who mentored me quite a bit (and sends me very cute pictures of his cats),
 and also to Matt, one of the university program members. Pretty much all of them had said yes: they had seriously considered it. It mattered to them. It had been heartbreaking. They didn't
