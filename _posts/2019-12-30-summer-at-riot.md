@@ -430,6 +430,36 @@ larger company's bureaucracy wouldn't quite give me access to (or perhaps it's a
 
 ![L33t jacket](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/l33t_coat.jpg "An esports jacket I was given during my internship")
 
+# Some thoughts for prospective Rioters (internships):
+
+* If you are a fan of League of Legends or just somebody where gaming is something which is important to you, you will love working at
+Riot. But, you don't have to be a "gamer" or be highly ranked in League of Legends or even play the game at all in some cases (a few interns
+had never played the game before, but still 1) made huge contributions, 2) had a great time, and 3) got return offers) -- but I would say
+(in my opinion) you should at least take gaming seriously and believe there is a really positive impact that the games and products we work on
+can have on the world.
+* There are some really awesome people at Riot. That's what really makes the experience, in my opinion. You're going to find good friends and good
+mentors. Whether you're at Riot or not, I think that the feedback culture and growth mindset Riot encourages is a positive one to maintain whether
+professional or in your personal life. I'd always recommend reaching out to people to ask them for their perspective or their two cents, and
+people are always open to have a 1:1 dropped into their calendar.
+* In terms of applying, Riot's internship program (this is from the perspective of a software engineering internship)
+has quite a few hoops you have to jump through. There are _many_ technical rounds,
+and while they are lengthy, there's nothing particularly special about them. I'd recommend any standard technical interview practice
+(work through HackerRank, Leetcode, or read CTCI) and make sure you're communicating what you're doing (and often times, the interviewers
+might chime in to help you a bit or give you feedback as you go). Perhaps the main thing Riot cares about is culture fit, and
+at least from the internship program standpoint, it does seem like culture fit means people who embody what we'd love to call a Rioter:
+somebody who is hard-working and excels at what they do, kind, friendly, growth-oriented, and believing of Riot's mission (and not just
+a "gamer bro" stereotype). I definitely found that every intern was empathetic and thoughtful. It was an amazing cohort of interns. *You should
+not gatekeep yourself out from applying to Riot Games because you don't think you're enough of a gamer.* If you fit the above but say, don't play a huge
+amount of League of Legends, you should apply anyways --
+weeding yourself out is doing a disservice to the company that would likely have loved to have somebody like you.
+* Re: sexism. This is what I mostly wanted to write this post for, and I offer here just one perspective. Don't just take mine. Ask others.
+I encourage you to do what I did, and find out for yourself what you believe the culture of Riot to be like and whether it's a good fit for you.
+You don't owe Riot anything; you don't necessarily owe Riot a chance --  but if you're a bit like me, and perhaps your passions and interests
+are a bit like me, I think you should give it a chance. 
+I had a very positive experience, and while I am not redeeming the company or clearing its name (I also acknowledge there is still
+quite a bit of work to be done), I found a supportive environment where I could thrive. There's a [danger in the single story](https://youtu.be/D9Ihs241zeg)
+and so I encourage you to find other narratives. But, I hope mine was helpful to you.
+
 # Funsies
 
 Here are some bonus images from my time there.
