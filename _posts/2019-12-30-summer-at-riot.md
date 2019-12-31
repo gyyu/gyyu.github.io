@@ -230,10 +230,10 @@ hit on me as this "dream gamer girl", or accuse me of putting on makeup just for
 the HSL, I've learned that the easiest way to cope (for me) was to just lie low and never identify as a girl online. But, I found myself
 gatekeeping other girls from the field: I remember watching the Team Siren promotional video and condemning them as attention whores,
 growing angry at girls who were streaming with visible cleavage and considering them to just be Kaceytron rip-offs who were just there to attract a few more viewers,
-and girls who mentioned who would correct people saying things like "glhf boys" with "actually, I'm a girl" got an immediate mute from me in-game. I even
+and girls who would correct people saying things like "glhf boys" with "actually, I'm a girl" got an immediate mute from me in-game. I even
 victim-blamed a bit: for girls who had suffered harassment after joining voice communications, I would condemn them for even joining the chat in the first place.
 If you're a girl gamer, you should just know that that's clearly something you shouldn't do, and I had no pity for somebody who had essentially brought it on themselves.
-I had a difficult dual-consciousness I had to internally reconcile with, because I also understood and had experienced first-handed the shameful reality
+I had a difficult dual-consciousness I had to internally reconcile with, because I also understood and had experienced first-hand the shameful reality
 of how women were treated in the gaming community. It's an omnipresent force, and from even just logging into the client and looking at champion portraits, it's clear to anybody
 how oppressive and sexualized the space that women in gaming are forced to exist in is. I had refused to acknowledge the very issues I was a victim of, and as a result, failed to
 even be an ally to myself. But, when what my trade was, when what I loved to do came face-to-face with what I enjoyed the most, when my career intersected with the
@@ -270,15 +270,17 @@ The intern program's Denewb lasted for a few days. The purpose of the program is
 knows and understands before we fully join Riot Games. This includes an understanding of the company's culture and a mutual understanding of
 what to expect from others (and what others are expecting from us), and to align ideas about who Riot Games is. Of course, there was also quite a bit of fun
 and simply getting to know each other: we played in-house games in the PC Bang on Howling Abyss, played ice-breakers and shared stories about each other,
+and learned about
 the history of Riot Games (they have an interesting section where they discuss all of the company's previous mistakes).
 
 And, of course, we talked about the Kotaku article and the diversity and inclusion initiative at Riot Games.
 
-One of the few things I noted about Riot Games was how openly people discussed the topic, and genuinely wanted to engage discourse. It wasn't just under the guide of
-mediated conversations from a D&I leader, but even in quotidian conversations it was something that I and fellow interns had organically started talking about
+One of the few things I noted about Riot Games was how openly people discussed the topic, and genuinely wanted to engage discourse. It wasn't just
+mediated conversations with an overlooking D&I leader; even in quotidian conversations it was something that I and fellow interns had organically started talking about
+beginning
 at our Memorial Day BBQ right before our first day.
 
-I definitely walked in as a cynic, and I perceived the almost positivity that Riot discussed its culture of sexism with a raised eyebrow. Essentially, Riot acknowledged that they had
+I definitely walked in as a cynic, and I perceived with a raised eyebrow the almost positivity that Riot discussed its culture of sexism with. Essentially, Riot acknowledged that they had
 made mistakes but instead were focused on bettering the company and becoming a more diverse and inclusive space. They saw this as an opportunity to become a
 leader in the space, and I remember even hearing once from a person in Denewb that it was a positive thing that the Kotaku article had been published, because now Riot's culture had changed
 and it was now a chance to improve and grow. There had been a number of action items that had been completed since the article, including
@@ -306,12 +308,12 @@ manager on my team, and another who was a product manager on Esports Digital's R
 their career goals after our six-month milestone passed), and was the only woman in the entire initiative by the end. When I return, I will be the first female engineer the team has ever had.
 
 My mentor was Michael, and he was four years older than me (and so was the same age as my older brother). He was an associate software engineer when I first started
-(he was promoted while I was there), and was an incredible amount of just kind, empathetic, and supportive. He was knowledgeable and always gave me actionable feedback, and
+(he was promoted while I was there), and was just incredibly kind, empathetic, and supportive. He was knowledgeable and always gave me actionable feedback, and
 was constantly in communication with me about my progress, but also about how he could be doing better as a mentor. We had weekly 1:1s (we had a very similar walking pace, and so we'd have time
 for two complete loops around our building taking almost exactly 30 minutes to the dot), and I remember one of my first experiences that made me see him in a different light was when I was
 talking to him about my experience playing StarCraft II in the HSL. He had said to me, "I'm sorry you experienced that sort of sexual harassment harassment". I told him later on how
 that had taken me aback. I had literally never considered it to be harassment, because I was so ingrained in the gaming community I knew that, well, it seemed like just "boys being boys". It
-was just how women in gaming were treated. It took me aback, because while we worked at a gaming community, Michael's standards for what was and wasn't acceptable behavior wasn't the standard
+was just how women in gaming were treated. It took me aback, because while we worked at a gaming company, Michael's standards for what was and wasn't acceptable behavior wasn't the standard
 of the gaming community. It was the standard that somebody who was a decent human being had, and how I treated wasn't just "gamer bro culture" -- it was harassment. He identified and called
 it exactly what it was, when even I had never done that.
 
@@ -325,7 +327,7 @@ blame those who did leave. But, they had chosen to stay because they believed th
 
 There was one thing Haru said (there are many things Haru says that makes me see things differently) that really struck me. This culture of sexism at Riot that was revealed by Cecilia in an
 article she published on Kotaku could have just as easily been about any other gaming company. It's not just a Riot problem. To call it just a Riot problem, and not a gaming industry
-problem (or tech industry problem) is dangerous. We have to acknowledge that it's not like in this space, there's uniquely good and bad actors: that because Riot was exposed as a "bad actor",
+problem (or tech industry problem) is dangerous. We have to acknowledge that uniquely good and bad actors don't exist: that because Riot was exposed as a "bad actor",
 this didn't clear the name for other companies that didn't have an article published about them. It doesn't validate any other company in this space. This is a problem that every company
 is complicit with. This isn't to dismiss what happened at Riot specifically as commonplace, this isn't to invalidate the very real and damning accounts that were detailed in the article.
 That is what transpired, and it transpired at Riot. It was heartbreaking to acknowledge this about a place they had grown to love, and to also introspect and bear some of the implicit
@@ -352,7 +354,7 @@ first time I had this moment where I felt like I was a part of Riot, and everybo
 I remember I had a 1:1 with Matt at the end of the year, and we talked not only about the internship experience and feedback for the program, but also about my own personal thoughts
 about the Kotaku article, the culture of sexism, my past in gaming, and the conversations and people I had met along the way. I remember it being a pretty emotional conversation,
 and I remember tearing up and thanking him (and the rest of the team) for giving me the opportunity to come to Riot and spend my summer there. He had responded by instead emphasizing,
-"No, thank you." He told me how much he had enjoyed having me at Riot, and that I was an irreplaceable contribution to Riot's culture and he hoped I'd return.
+"No, thank _you_." He told me how much he had enjoyed having me at Riot, and that I was an irreplaceable contribution to Riot's culture and he hoped I'd return.
 
 It wasn't just him that told me this. Several people told me this, about how I had contributed to Riot's culture in this meager three months I had been at the company -- it really
 made me feel like I belonged and like I was wanted. I still had a lot to learn and prove for myself, but some of my last few moments at Riot Games were that of feeling completely and
@@ -373,17 +375,17 @@ Also, I owe many thanks to Laith. He helped me write the request to Riv to ask f
 
 # Pros and Cons
 
-Here's my short-list.
+Here's my shortlist.
 
 Pros:
 * People are awesome. Both the full-timers and interns are amazing. I made some of my best friends here. I already talked a huge amount about the people here, so I won't go for too long, but it
 really is Riot's highlight that probably no other company can quite beat (that together with the company culture).
 * People genuinely care about Riot, and are invested in the company's culture. They genuinely always want to see Riot do better.
-* Internship program is well-run. There is a lot of mentorship (and a lot of fun activities). You'll have so much fun you're going to feel a bit guilty about it because you're supposed to be
-working hard.
-* If you're a fan of Riot's games or are just invested in the gaming industry, there's just simply the coolest shit ever. I'm so happy the Riot Games 10 Year Anniversary reveal happened,
+* The internship program is well-run. There is a lot of mentorship (and a lot of fun activities). You'll have so much fun you're going to feel a bit guilty about it because you're supposed to be
+working. And how could working be this fun?
+* If you're a fan of Riot's games or are just invested in the gaming industry, there's just simply the coolest shit ever going on at Riot. I'm so happy the Riot Games 10 Year Anniversary reveal happened,
 because now I can gush about just the awesome things that people are working about. I got to playtest some of the new games coming out, and all I can say is just, wow. We also saw a bit of
-Arcane, which I am the most excited for out of the insane amount of new projects Riot is juggling. You get to somebody who contributes to and works on the things you're a fan of -- is that not
+Arcane, which I am the most excited for out of the insane amount of new projects Riot is juggling. You get to be somebody who contributes to and works on the things you're a fan of -- is that not
 every fan's dream?
 
 Cons (for the ones with an exclamation mark, there's some other mixed thoughts about it though):
@@ -397,8 +399,8 @@ when it comes to engineering, you probably cannot just ubiquitously say that Rio
 # What I learned
 
 I'll probably make a separate post about the technical side of things (especially after I have a better idea of what I can and cannot talk about), but
-some of the technologies I worked with are Preact, JSX, and GraphQL. I made a "Jump to Start" on VODs on the watch platform, a (new
-home page for the site)[https://watch.lolesports.com/home], learned about the watch platform backend, and also helped create a new article
+some of the technologies I worked with are Preact, JSX, and GraphQL. I made a "Jump to Start" on VODs on the watch platform, a [new
+home page for the site](https://watch.lolesports.com/home), learned about the watch platform backend, and also helped create a new article
 format after migrating to a new CMS. So, I mostly worked on the front-end side -- I had autonomy though to pick what I wanted to work on or learn about, but
 I chose to stay on front-end because that's what my mentor worked on (so I'd rather stay on the same tasks and learn as much as I could). Later on, I was able to
 reach out to Haru when I wanted to learn more about the back-end (and he also let me just stare at his screen as he walked through setting up a new
@@ -411,7 +413,7 @@ reasons I also wanted to return besides that:
 
 * There are some very talented engineers at Riot that are highly accessible. There isn't some insurmountable difference in quality of engineers between Riot and
 another tech company; there are many people at Riot who have come from very well-known tech companies and have knowledge about what are "right" ways to approach
-building different products and solving problems that they carry (and so it's knowledge specific to the individual, not necessarily the company). Not only that,
+building different products and solving problems (and so it's knowledge specific to the individual, not necessarily the company). Not only that,
 but these engineers are very accessible -- they are people you can ask to work with or be mentored by, and people at Riot are always super open to
 feedback and having 1:1s (Riot's culture towards feedback was definitely something I found quite special).
 * There's a pretty good work-life balance at Riot, and this is definitely in part to good dev processes and our team lead being on top of keeping track of the team's pulse and
@@ -419,7 +421,7 @@ what our progress so far for our goals are (and adjusting easily). There's daily
 I actually do find pretty useful for ensuring there's always plenty being tackled that we are interested in doing, but we're not being overworked (and engineers
 have a lot of input into what is possible and what priorities are).
 * General passion for the product. I remember when the 10 Year Anniversary announcements came out, I was so proud and was constantly telling my friends about
-say how I personally knew a person who appeared on stream, or how much awesome a project was sure to be. There's probably no other company whose products I'm more passionate about.
+say how I personally knew a person who appeared on stream, or how awesome a project was sure to be. There's probably no other company whose products I'm more passionate about.
 * The main thing I had heard people warn me about was that I'd be pigeon-holing myself by going into a gaming company as a software engineer, and it was better
 to go to a technology company for better compensation overall (it's true that Riot can't really compete with say the giant stock options and signing bonuses that
 tech giants boast). But, Riot still has pretty good engineering processes that they're improving by the day, and as Haru put it, there's a lot at Riot
@@ -439,7 +441,7 @@ had never played the game before, but still 1) made huge contributions, 2) had a
 can have on the world.
 * There are some really awesome people at Riot. That's what really makes the experience, in my opinion. You're going to find good friends and good
 mentors. Whether you're at Riot or not, I think that the feedback culture and growth mindset Riot encourages is a positive one to maintain whether
-professional or in your personal life. I'd always recommend reaching out to people to ask them for their perspective or their two cents, and
+in your professional or personal life. I'd always recommend reaching out to people to ask them for their perspective or their two cents, and
 people are always open to have a 1:1 dropped into their calendar.
 * In terms of applying, Riot's internship program (this is from the perspective of a software engineering internship)
 has quite a few hoops you have to jump through. There are _many_ technical rounds,
@@ -455,7 +457,7 @@ weeding yourself out is doing a disservice to the company that would likely have
 * Re: sexism. This is what I mostly wanted to write this post for, and I offer here just one perspective. Don't just take mine. Ask others.
 I encourage you to do what I did, and find out for yourself what you believe the culture of Riot to be like and whether it's a good fit for you.
 You don't owe Riot anything; you don't necessarily owe Riot a chance --  but if you're a bit like me, and perhaps your passions and interests
-are a bit like me, I think you should give it a chance. 
+are a bit like me, I think you should give it a chance.
 I had a very positive experience, and while I am not redeeming the company or clearing its name (I also acknowledge there is still
 quite a bit of work to be done), I found a supportive environment where I could thrive. There's a [danger in the single story](https://youtu.be/D9Ihs241zeg)
 and so I encourage you to find other narratives. But, I hope mine was helpful to you.
