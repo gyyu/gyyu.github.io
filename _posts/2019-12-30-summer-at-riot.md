@@ -329,7 +329,7 @@ There was one thing Haru said (there are many things Haru says that makes me see
 article she published on Kotaku could have just as easily been about any other gaming company. It's not just a Riot problem. To call it just a Riot problem, and not a gaming industry
 problem (or tech industry problem) is dangerous. We have to acknowledge that uniquely good and bad actors don't exist: that because Riot was exposed as a "bad actor",
 this didn't clear the name for other companies that didn't have an article published about them. It doesn't validate any other company in this space. This is a problem that every company
-is complicit with. This isn't to dismiss what happened at Riot specifically as commonplace, this isn't to invalidate the very real and damning accounts that were detailed in the article.
+is complicit with. This isn't to dismiss what happened at Riot specifically as commonplace; this isn't to invalidate the very real and damning accounts that were detailed in the article.
 That is what transpired, and it transpired at Riot. It was heartbreaking to acknowledge this about a place they had grown to love, and to also introspect and bear some of the implicit
 responsibility that comes with contributing to such a space. But, they wanted to stay and fix that. Riot was a place they loved. Because they loved it, they wanted to see it do better.
 If every good person who cared left Riot, there would be no hope for Riot. The company needs people like Michael, Haru, and Matt to stay and be solid allies for the work ahead. They are people
