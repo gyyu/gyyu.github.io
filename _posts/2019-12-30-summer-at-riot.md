@@ -311,7 +311,7 @@ My mentor was Michael, and he was four years older than me (and so was the same 
 (he was promoted while I was there), and was just incredibly kind, empathetic, and supportive. He was knowledgeable and always gave me actionable feedback, and
 was constantly in communication with me about my progress, but also about how he could be doing better as a mentor. We had weekly 1:1s (we had a very similar walking pace, and so we'd have time
 for two complete loops around our building taking almost exactly 30 minutes to the dot), and I remember one of my first experiences that made me see him in a different light was when I was
-talking to him about my experience playing StarCraft II in the HSL. He had said to me, "I'm sorry you experienced that sort of sexual harassment harassment". I told him later on how
+talking to him about my experience playing StarCraft II in the HSL. He had said to me, "I'm sorry you experienced that sort of sexual harassment". I told him later on how
 that had taken me aback. I had literally never considered it to be harassment, because I was so ingrained in the gaming community I knew that, well, it seemed like just "boys being boys". It
 was just how women in gaming were treated. It took me aback, because while we worked at a gaming company, Michael's standards for what was and wasn't acceptable behavior wasn't the standard
 of the gaming community. It was the standard that somebody who was a decent human being had, and how I treated wasn't just "gamer bro culture" -- it was harassment. He identified and called
