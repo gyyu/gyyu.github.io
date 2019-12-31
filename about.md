@@ -52,7 +52,7 @@ Mellon University, and graduated Fall 2019. Hopefully out to do good in this wor
   Working on it.
   - Weight lifting. Have not been good about doing this consistently as of December 2019, and have been
   plateauing at around 100 lbs for squats, 125 lbs for deadlifts, 55 lbs for benches.
-- Hit Platinum this season
+- [Hit Platinum this season](https://na.op.gg/summoner/userName=Gyudon)
   - Hey, I hit Gold IV duoing with my friend. I also switched to support. Guess I'm an egirl now. I should write
   about some thoughts on that...
 
