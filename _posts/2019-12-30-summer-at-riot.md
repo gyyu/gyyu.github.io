@@ -2,7 +2,7 @@
 layout: post
 title:  "A Summer at Riot Games"
 author: grace
-categories: [ writing, career, riot ]
+categories: [ writing, career, riot, gaming ]
 image: assets/images/posts/20191229/esportsdigital.jpg
 featured: true
 hidden: true
@@ -163,7 +163,7 @@ work there. Whoever was there, they were must be people like me -- people cut fr
 sure I would fit in and enjoy myself. I wanted to meet them.
 
 I remember attending the information session and being totally in awe. The recruiter --
-I still remember his name, Grant Cushman -- was totally unabashed about how proud he was seemingly
+I still remember his name, G.C. -- was totally unabashed about how proud he was seemingly
 to work at Riot and _belong_ to the company. He talked about the Manifesto, and I remember walking up to him afterwards and
 introducing myself and having a conversation about Day9 and StarCraft with him. He left me his business card and contact information.
 
@@ -179,12 +179,12 @@ I remember being extremely stressed finding an internship for the summer after m
 I had already started getting emails for junior year summer internships
 beginning in July/August. I supposed that people were right -- searching for jobs would become easier once I got older.
 I was scanning through my emails one day when a particular one caught my eye: it was from somebody named
-Mina Hur, inviting me to apply to Riot Games.
+M.H., inviting me to apply to Riot Games.
 
 At that moment, everything had come flooding back into me. I was so excited. I replied back,
 enthusiastic, ecstatic -- yes! I'd love to apply! I'm interested!
 
-It turns out Mina had also been involved with the HSL/CSL organization and TESPA, and
+It turns out M.H. had also been involved with the HSL/CSL organization and TESPA, and
 we bonded over this common connection. I started my interviews with Riot Games, and right after I had been informed
 that I had passed the first round, the Kotaku article came out.
 
@@ -194,7 +194,7 @@ If you have never read the Kotaku article, you should. [Here's the link](https:/
 a culture of sexism that had manifested its ugly, rearing head at Riot Games; the article describes how "gamer bro culture" had contributed to a workplace at Riot Games that was falsely
 called meritocratic (claims of meritocracy that had attracted me to want to work there) but in reality was toxic and unwelcoming to women.
 
-It was heartbreaking, honestly. I felt incredibly disillusioned. Riot Games had been my dream place to work. I ended up calling Mina, and we had talked for a while about
+It was heartbreaking, honestly. I felt incredibly disillusioned. Riot Games had been my dream place to work. I ended up calling M.H., and we had talked for a while about
 what was actually going on at Riot Games. When I had made it to the on-campus interview round, I was upfront and asked each interviewer about their
 experience (the panel of three interviewers included one woman). The responses I got acknowledged that what the article talked about was problematic,
 and every person made sure to validate the accounts that were given in the article, and everybody was understanding of my hesitation and apprehension I had
@@ -288,7 +288,7 @@ a revision of the Riot Games Handbook (think of this as an employee handbook) wh
 Riot's culture, such as guidelines about dating in the workplace, and mandatory Ally Training classes (which the interns also had to complete). The treatment that Riot gave to D&I issues during
 Denewb excelled in successfully stressing its importance, having humility to acknowledge tremendous mistakes, and also portraying it as a current and salient issue, not just one from a "Riot of the past".
 
-But, I remember first coming in and still feeling quite unsatisfied. The Chief Diversity Officer, Angela, came in for a Q&A session with us in which some interns pressed back
+But, I remember first coming in and still feeling quite unsatisfied. The Chief Diversity Officer, Angela Roseboro, came in for a Q&A session with us in which some interns pressed back
 hard about the fact that Scott Gelb was still hired at Riot Games. I remember Angela defending him and appealing to empathy, and how in fact Scott had spearheaded many of the D&I efforts at Riot
 and was a strong ally for D&I at the company. But I felt let down about this response. I can acknowledge that people change (although I still have some reserved feelings about what feels like
 a person turning over a new leaf only because he was exposed, and the outrage lit a fire underneath him to get his act together), and he can do good, and he is probably a human who isn't
@@ -307,51 +307,51 @@ To give some context, I was a software engineering intern on Esports Digital's G
 manager on my team, and another who was a product manager on Esports Digital's Rewards and Achievements team, but they later on switched internally to other teams that better fit
 their career goals after our six-month milestone passed), and was the only woman in the entire initiative by the end. When I return, I will be the first female engineer the team has ever had.
 
-My mentor was Michael, and he was four years older than me (and so was the same age as my older brother). He was an associate software engineer when I first started
+My mentor was M.W., and he was four years older than me (and so was the same age as my older brother). He was an associate software engineer when I first started
 (he was promoted while I was there), and was just incredibly kind, empathetic, and supportive. He was knowledgeable and always gave me actionable feedback, and
 was constantly in communication with me about my progress, but also about how he could be doing better as a mentor. We had weekly 1:1s (we had a very similar walking pace, and so we'd have time
 for two complete loops around our building taking almost exactly 30 minutes to the dot), and I remember one of my first experiences that made me see him in a different light was when I was
 talking to him about my experience playing StarCraft II in the HSL. He had said to me, "I'm sorry you experienced that sort of sexual harassment". I told him later on how
 that had taken me aback. I had literally never considered it to be harassment, because I was so ingrained in the gaming community I knew that, well, it seemed like just "boys being boys". It
-was just how women in gaming were treated. It took me aback, because while we worked at a gaming company, Michael's standards for what was and wasn't acceptable behavior wasn't the standard
+was just how women in gaming were treated. It took me aback, because while we worked at a gaming company, M.W.'s standards for what was and wasn't acceptable behavior wasn't the standard
 of the gaming community. It was the standard that somebody who was a decent human being had, and how I treated wasn't just "gamer bro culture" -- it was harassment. He identified and called
 it exactly what it was, when even I had never done that.
 
-Michael continued to be an amazing mentor who was pretty involved with the Riot community and culture, and I had asked him what he had thought
+M.W. continued to be an amazing mentor who was pretty involved with the Riot community and culture, and I had asked him what he had thought
 when the Kotaku article had come out and also about the walk-out. I remember one time looking over and seeing him reading the
 [one year follow-up](https://kotaku.com/riot-games-and-sexism-one-year-later-1837041215) Cecilia (the author of the first Kotaku article) had written about Riot's improvements.
 I frequently saw this, and noted how he seemed very invested in Riot and its culture. It was a totally different experience from what I had seen at any other company. I asked him if he thought
-about quitting. I asked this question to many people: I asked it to Haru, a senior software engineer on our team who mentored me quite a bit (and sends me very cute pictures of his cats),
-and also to Matt, one of the university program members. Pretty much all of them had said yes: they had seriously considered it. It mattered to them. It had been heartbreaking. They didn't
+about quitting. I asked this question to many people: I asked it to H.S., a senior software engineer on our team who mentored me quite a bit (and sends me very cute pictures of his cats),
+and also to M.K., one of the university program members. Pretty much all of them had said yes: they had seriously considered it. It mattered to them. It had been heartbreaking. They didn't
 blame those who did leave. But, they had chosen to stay because they believed that Riot could do better.
 
-There was one thing Haru said (there are many things Haru says that makes me see things differently) that really struck me. This culture of sexism at Riot that was revealed by Cecilia in an
+There was one thing H.S. said (there are many things H.S. says that makes me see things differently) that really struck me. This culture of sexism at Riot that was revealed by Cecilia in an
 article she published on Kotaku could have just as easily been about any other gaming company. It's not just a Riot problem. To call it just a Riot problem, and not a gaming industry
 problem (or tech industry problem) is dangerous. We have to acknowledge that uniquely good and bad actors don't exist: that because Riot was exposed as a "bad actor",
 this didn't clear the name for other companies that didn't have an article published about them. It doesn't validate any other company in this space. This is a problem that every company
 is complicit with. This isn't to dismiss what happened at Riot specifically as commonplace; this isn't to invalidate the very real and damning accounts that were detailed in the article.
 That is what transpired, and it transpired at Riot. It was heartbreaking to acknowledge this about a place they had grown to love, and to also introspect and bear some of the implicit
 responsibility that comes with contributing to such a space. But, they wanted to stay and fix that. Riot was a place they loved. Because they loved it, they wanted to see it do better.
-If every good person who cared left Riot, there would be no hope for Riot. The company needs people like Michael, Haru, and Matt to stay and be solid allies for the work ahead. They are people
+If every good person who cared left Riot, there would be no hope for Riot. The company needs people like M.W., H.S., and M.K. to stay and be solid allies for the work ahead. They are people
 who are unafraid to identify and call things out for what they are, and unapologetic in holding those around them accountable.
 
 They really cared. I also had a 1:1 with Victor, a researcher on my team, who had been closely involved and supportive of D&I efforts at the company and had even introduced me to
 another person who had helped organize the company walkout. They cared, this mattered to them, and they listened to me. Genuinely listened to me, validated my experiences and
 thoughts, and connected me with others who would be strong figures to get to know.
 
-While I was there, Riot published [this video on internship mentoring](https://youtu.be/uubRwv9b-_w) and at 0:38, you see two people, Chien and Sri, who appear on screen. Chien was Sri's mentor, who was an intern
-on Esports Digital the summer before. Sri had actually returned, and I knew both Chien and Sri (and sat right next to them). Chien is a strange person, but he's genuinely kind, a hard worker,
-and extremely funny. Sri was just a year older than me (and so was the person on the team I most saw as a peer), and has a way with talking that's very warm (he always mentions your name in questions, like "Did you have fun today, Grace?") and has kept friendships from high school strong (including his girlfriend, who he started dating in high school, had been long-distance with
-throughout undergrad with one person in southern California and the other in Georgia). I dyed my hair for the first time during the summer. I decided to dye it an ashy color, and I told Sri about this. He then came to work the next day with temporary dye in his hair, and nonchalantly greeted me when I walked in. I laughed so hard that day. I've gone to that exact smoothie bar where
-Chien and Sri are chatting with my mentor for a 1:1. My team might be all men, but they are all allies. They've treated me with so much respect and kindness, and there hasn't been a day that's
+While I was there, Riot published [this video on internship mentoring](https://youtu.be/uubRwv9b-_w) and at 0:38, you see two people, Y.C.T. and S.S., who appear on screen. Y.C.T. was S.S.'s mentor, who was an intern
+on Esports Digital the summer before. S.S. had actually returned, and I knew both Y.C.T. and S.S. (and sat right next to them). Y.C.T. is a strange person, but he's genuinely kind, a hard worker,
+and extremely funny. S.S. was just a year older than me (and so was the person on the team I most saw as a peer), and has a way with talking that's very warm (he always mentions your name in questions, like "Did you have fun today, Grace?") and has kept friendships from high school strong (including his girlfriend, who he started dating in high school, had been long-distance with
+throughout undergrad with one person in southern California and the other in Georgia). I dyed my hair for the first time during the summer. I decided to dye it an ashy color, and I told S.S. about this. He then came to work the next day with temporary dye in his hair, and nonchalantly greeted me when I walked in. I laughed so hard that day. I've gone to that exact smoothie bar where
+Y.C.T. and S.S. are chatting with my mentor for a 1:1. My team might be all men, but they are all allies. They've treated me with so much respect and kindness, and there hasn't been a day that's
 gone by where I haven't laughed hard about something (apparently many people in the building know who I am because I laugh so loudly and frequently).
 
 ![YT Comments](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/comments.png "The comments on the video")
 
-These are the comments on the video I mentioned above. I remember feeling upset and frustrated, and talked with Michael who felt similarly. I felt almost defensive of Riot, and it was the
+These are the comments on the video I mentioned above. I remember feeling upset and frustrated, and talked with M.W. who felt similarly. I felt almost defensive of Riot, and it was the
 first time I had this moment where I felt like I was a part of Riot, and everybody else was an outsider. It was the first time I felt like a Rioter.
 
-I remember I had a 1:1 with Matt at the end of the year, and we talked not only about the internship experience and feedback for the program, but also about my own personal thoughts
+I remember I had a 1:1 with M.K. at the end of the year, and we talked not only about the internship experience and feedback for the program, but also about my own personal thoughts
 about the Kotaku article, the culture of sexism, my past in gaming, and the conversations and people I had met along the way. I remember it being a pretty emotional conversation,
 and I remember tearing up and thanking him (and the rest of the team) for giving me the opportunity to come to Riot and spend my summer there. He had responded by instead emphasizing,
 "No, thank _you_." He told me how much he had enjoyed having me at Riot, and that I was an irreplaceable contribution to Riot's culture and he hoped I'd return.
@@ -371,7 +371,7 @@ just being courteous! Of course I wanted a picture. Right before I left, I asked
 little bit (he agreed to meet me backstage despite casting for an event, hence his get-up) and even he knew me from my laugh! Riv, I want you to know
 you're my favorite caster.
 
-Also, I owe many thanks to Laith. He helped me write the request to Riv to ask for a picture, and also came with me to go and get a picture with him. Thanks again!
+Also, I owe many thanks to L.A. -- he helped me write the request to Riv to ask for a picture, and also came with me to go and get a picture with him. Thanks again!
 
 # Pros and Cons
 
@@ -403,7 +403,7 @@ some of the technologies I worked with are Preact, JSX, and GraphQL. I made a "J
 home page for the site](https://watch.lolesports.com/home), learned about the watch platform backend, and also helped create a new article
 format after migrating to a new CMS. So, I mostly worked on the front-end side -- I had autonomy though to pick what I wanted to work on or learn about, but
 I chose to stay on front-end because that's what my mentor worked on (so I'd rather stay on the same tasks and learn as much as I could). Later on, I was able to
-reach out to Haru when I wanted to learn more about the back-end (and he also let me just stare at his screen as he walked through setting up a new
+reach out to H.S. when I wanted to learn more about the back-end (and he also let me just stare at his screen as he walked through setting up a new
 monitoring system). When I return to the team, that's what I'll be working on.
 
 # I'm returning!
@@ -424,7 +424,7 @@ have a lot of input into what is possible and what priorities are).
 say how I personally knew a person who appeared on stream, or how awesome a project was sure to be. There's probably no other company whose products I'm more passionate about.
 * The main thing I had heard people warn me about was that I'd be pigeon-holing myself by going into a gaming company as a software engineer, and it was better
 to go to a technology company for better compensation overall (it's true that Riot can't really compete with say the giant stock options and signing bonuses that
-tech giants boast). But, Riot still has pretty good engineering processes that they're improving by the day, and as Haru put it, there's a lot at Riot
+tech giants boast). But, Riot still has pretty good engineering processes that they're improving by the day, and as H.S. put it, there's a lot at Riot
 that is still left to be done: in some ways, by working at a smaller company, I'll be able to do more work and tackle more ambitious projects that a
 larger company's bureaucracy wouldn't quite give me access to (or perhaps it's already been built and is mature at another place).
 * Competitive compensation. Not too much more to say here.
@@ -478,7 +478,7 @@ Here's the view from the balcony of my building:
 My mentor also made it to the finals of the Masters Rumble Tournament (Rumble is Riot's internal in-house tournament, and it's split into different leagues for Bronze, Silver, Gold, etc.).
 Here's us cheering him on from the stage:
 
-![Rumble](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/rumble_finals.jpg "Go Michael!")
+![Rumble](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/rumble_finals.jpg "Go M.W.!")
 
 I just casually ran into Kurt Hugo Schneider:
 
