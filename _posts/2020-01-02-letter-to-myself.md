@@ -5,7 +5,7 @@ author: grace
 categories: [ writing ]
 image: assets/images/posts/20200102/me.jpg
 featured: false
-hidden: false
+hidden: true
 ---
 
 Dear Future Self,
