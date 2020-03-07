@@ -2,10 +2,10 @@
 layout: post
 title:  "A Letter to My Parents"
 author: grace
-categories: [ writing ]
+categories: [ personal ]
 image: assets/images/posts/20200102/parents.jpg
 featured: false
-hidden: true
+hidden: false
 ---
 
 Dear Mom and Dad,

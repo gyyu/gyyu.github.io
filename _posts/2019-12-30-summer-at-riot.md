@@ -2,7 +2,7 @@
 layout: post
 title:  "A Summer at Riot Games"
 author: grace
-categories: [ writing, career, riot, gaming ]
+categories: [ women, career, riot, gaming ]
 image: assets/images/posts/20191229/esportsdigital.jpg
 featured: true
 hidden: true

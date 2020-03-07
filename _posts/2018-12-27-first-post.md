@@ -2,7 +2,7 @@
 layout: post
 title:  "First Post"
 author: grace
-categories: [ writing ]
+categories: [ personal ]
 image: assets/images/posts/20181227/winter-double-rainbow.jpg
 featured: false
 hidden: false
