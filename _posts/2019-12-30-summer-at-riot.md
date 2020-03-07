@@ -5,7 +5,7 @@ author: grace
 categories: [ women, career, riot, gaming ]
 image: assets/images/posts/20191229/esportsdigital.jpg
 featured: true
-hidden: true
+hidden: false
 ---
 This post was originally titled "Goodbye, Riot" and I had written a draft after
 returning back home from Santa Monica, CA and missing Riot. It had been the best summer of my life to date.

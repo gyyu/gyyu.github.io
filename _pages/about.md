@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-comments: true
+permalink: /about
 ---
 
 ### Hi, my name is Grace.
