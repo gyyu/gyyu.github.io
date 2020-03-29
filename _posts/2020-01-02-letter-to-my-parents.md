@@ -5,7 +5,7 @@ author: grace
 categories: [ personal ]
 image: assets/images/posts/20200102/parents.jpg
 featured: false
-hidden: false
+hidden: true
 ---
 
 Dear Mom and Dad,
