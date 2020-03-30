@@ -77,6 +77,6 @@ For those of you who are also a woman in gaming: instead of defending the niche 
 
 # Some other articles I liked
 
-* https://kotaku.com/the-cost-of-being-a-woman-who-covers-video-games-1840793836
-* https://www.critical-distance.com/2019/12/30/this-year-in-videogame-blogging-2019/
-* https://kotaku.com/young-women-are-reclaiming-the-word-egirl-1836738879
+* [https://kotaku.com/the-cost-of-being-a-woman-who-covers-video-games-1840793836](https://kotaku.com/the-cost-of-being-a-woman-who-covers-video-games-1840793836)
+* [https://www.critical-distance.com/2019/12/30/this-year-in-videogame-blogging-2019/](https://kotaku.com/the-cost-of-being-a-woman-who-covers-video-games-1840793836)
+* [https://kotaku.com/young-women-are-reclaiming-the-word-egirl-1836738879](https://kotaku.com/the-cost-of-being-a-woman-who-covers-video-games-1840793836)
