@@ -65,7 +65,7 @@ We'd watch Day9 together, and so while it's pretty amusing for me to look back a
 a crush on a boy that got me started on StarCraft, it'd be a pretty fun story I think for the Day9 community.
 My Felicity, in a way.
 
-When we entered high school, we competed started a team to compete in the High School StarLeague (HSL).
+When we entered high school, we started a team to compete in the High School StarLeague (HSL).
 My friend and I founded the club, and although it later on fell apart for various and rather
 regrettable reasons (and I was thinking of discussing more about that and my experience in gaming and the HSL in
 another post), we competed for two years. In that second year, Oakton High School took third place in the nation.

@@ -45,4 +45,5 @@ I hope you're fearless in the future, Grace. I hope you never stop demanding any
 best from yourself. I wish you the best. I'll do my best to make the best decisions for us, and I'm rooting for you.
 
 Love,
+
 Your Past Self
