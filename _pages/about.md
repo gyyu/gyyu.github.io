@@ -10,6 +10,10 @@ I will start work as a software engineer at Riot Games in late January 2020. I
 studied computer science with a minor in mathematical sciences at Carnegie
 Mellon University, and graduated Fall 2019. Hopefully out to do good in this world.
 
+### Why does this place exist?
+
+
+
 ### Interests
 
 - Gaming (StarCraft, League of Legends)
@@ -52,8 +56,8 @@ Mellon University, and graduated Fall 2019. Hopefully out to do good in this wor
   Working on it.
   - Weight lifting. Have not been good about doing this consistently as of December 2019, and have been
   plateauing at around 100 lbs for squats, 125 lbs for deadlifts, 55 lbs for benches.
-- [Hit Platinum this season](https://na.op.gg/summoner/userName=Gyudon)
-  - I'm Gold III!
+- [Hit Platinum this season](https://na.op.gg/summoner/userName=Riot+Gyudon)
+  - I'm Gold III! (or was -- darn it the season started)
 
 ### Current Projects
 
@@ -62,10 +66,30 @@ Mellon University, and graduated Fall 2019. Hopefully out to do good in this wor
   for me to revisit my childhood hobbies. They won't be good at first, but I think it'd be fun to (one day) look back at the progress.
 - 100 Days of Code
   - Progress is on Github
-- Doran's Lab
 
 ### Images
 
 The image used as an icon is my Chinese name painted by my grandmother before she passed away. She did Chinese calligraphy, and I asked her to write my name. This was before her illness worsened, but you can already see the tremors seeping into her strokes.
 
 The image used in the homepage jumbotron is made by David Jin, a very talented friend of mine.
+
+### Quote
+
+The tagline from my page is from _Watchmen_ by Alan Moore. It's from a quote by Dr. Manhattan that I love and has been dear to me through tough times.
+
+It's a scene where Dr. Manhattan tells Laurie that he doesn't think her life in meaningless while they are on Mars. It goes:
+
+> Dr. Manhattan: Thermodynamic miracles... events with odds so astronomical they're effectively impossible, like oxygen spontaneously becoming gold. I long to observe such a thing.
+> And yet, in each human coupling, a thousand million sperm vie for a single egg. Multiple those odds by countless generations, against the odds of your ancestors being alive; meeting; siring this precise son; that exact daughter...
+> ...Until your mother loves a man she has every reason to hate, and of that union, of the thousand million children competing for fertilization, it was you, only you, that emerged.
+> To distill so specific a form from that chaos of improbability, like turning air to gold... that is the corwning unlikelihood.
+> The thermodynamic miracle.
+>
+> Laurie: But... if me, my birth, if that's a thermodynamic miracle... I mean, you could say that about anybody in the world.
+>
+> Dr. Manhattan: Yes. Anybody in the world. But the world is so full of people, so crowded with these miracles that they become commonplace and we forget.
+> I forget.
+> We gaze continuously at the world and it grows dull in our perceptions. Yet seen from another's vantage point, as if new, it may still take the breath away.
+>
+> Come... Dry your eyes, for you are life, rare than a quark and unpredictable beyond the dreams of Heisenberg; the clay in which the forces that shape all things leave their fingerprints most clearly.
+> Dry your eyes... and let's go home.
