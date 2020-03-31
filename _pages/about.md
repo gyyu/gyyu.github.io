@@ -81,14 +81,19 @@ It's a scene where Dr. Manhattan tells Laurie that he doesn't think her life in 
 
 > Dr. Manhattan: Thermodynamic miracles... events with odds so astronomical they're effectively impossible, like oxygen spontaneously becoming gold. I long to observe such a thing.
 > And yet, in each human coupling, a thousand million sperm vie for a single egg. Multiple those odds by countless generations, against the odds of your ancestors being alive; meeting; siring this precise son; that exact daughter...
+>
 > ...Until your mother loves a man she has every reason to hate, and of that union, of the thousand million children competing for fertilization, it was you, only you, that emerged.
-> To distill so specific a form from that chaos of improbability, like turning air to gold... that is the corwning unlikelihood.
+>
+> To distill so specific a form from that chaos of improbability, like turning air to gold... that is the crowning unlikelihood.
+>
 > The thermodynamic miracle.
 >
 > Laurie: But... if me, my birth, if that's a thermodynamic miracle... I mean, you could say that about anybody in the world.
 >
 > Dr. Manhattan: Yes. Anybody in the world. But the world is so full of people, so crowded with these miracles that they become commonplace and we forget.
+>
 > I forget.
+>
 > We gaze continuously at the world and it grows dull in our perceptions. Yet seen from another's vantage point, as if new, it may still take the breath away.
 >
 > Come... Dry your eyes, for you are life, rare than a quark and unpredictable beyond the dreams of Heisenberg; the clay in which the forces that shape all things leave their fingerprints most clearly.
