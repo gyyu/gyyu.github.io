@@ -24,7 +24,7 @@ This is taken from Manuel Blum's [_Advice to a Beginning Graduate Student_](http
 >
 > Turing Machines can compute any computable function.
 >
-> Turing machines are incredibly more powerful than Finite Automata.
+> Turing Machines are incredibly more powerful than Finite Automata.
 >
 > Yet the only difference between a FA and a TM is that the TM, unlike the FA, has paper and pencil.
 >
@@ -43,10 +43,10 @@ And here is a quote from John Shaw Billings that he shares:
 > Second say it,
 >
 > Third stop when you have said it, and
-> 
+>
 > Finally give it an accurate title."
 
-I've always loved writing. So there's a very personal reason why it exists, which is for my own enjoyment.
+I've always loved writing. So there's a very personal reason why this place exists, which is for my own enjoyment.
 But there's also some things that I like to believe I have to say, and perhaps some people out there who might
 find it mildly valuable. And while I still have that feeling, I'll keep this place alive.
 

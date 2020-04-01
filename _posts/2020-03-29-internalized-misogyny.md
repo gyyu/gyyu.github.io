@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Some Thoughts on Women in Gaming"
+title:  "Internalized Misogyny"
 author: grace
 categories: [ gaming, women ]
 image: assets/images/posts/20200329/iwdpin.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 I have a problem with finishing projects. "Work in progress" is a phrase that describes me well -- whether it be
@@ -19,21 +19,21 @@ But I'm making progress. This post is one of those that's been in the works for 
 desert the project, or start again into this cycle of madness. After I wrote my reflections on [Riot's culture during my internship](https://gyyu.github.io/summer-at-riot/), I had written out a draft where I wanted to talk about my own experience in gaming. But it didn't feel right -- it was too emotional,
 too personal, and didn't seem to have enough value that I'd want to release it into the world. After Remilia passed away, I felt an urge to write again. About my own experience
 from when I first learned about transgender women, to my progress in trying to be a better ally, to what I've witnessed when the cause for women in gaming reconciles with transphobia
-and general bigotry towards transgender women. But that post never saw the light of day. It was again, too personal, and maybe I also felt uncomfortable with, as a cisgender woman, speaking as an ally but not a member of that identity group on subjects owned by that identity group. Then again, on International Women's Day, I went to an event hosted by Riot's RAD Genders RIG (RAD Genders stands for
+and general bigotry towards transgender women. But that post never saw the light of day. It was again, too personal, and maybe I also felt uncomfortable with, as a cisgender woman, speaking as an ally-but-probably-not-ally-enough-where-do-I-exist-in-this-space but not a member of that identity group on subjects owned by that identity group. Then again, on International Women's Day, I went to an event hosted by Riot's RAD Genders RIG (RAD Genders stands for
 Riot Alliance of Diverse Genders, and it's a Rioter Identity Group, much like Employee Resource Groups at other companies) where I listened to speeches and lightning talks from
-some of my peers that moved me deeply: it was inspiring, comforting, and touching. I cried and laughed at the stories that I heard. The talks were poignant and resonant, and there's no way I could listen to the stories that the women on stage shared and not feel inspired to add my own piece. I wanted to talk about, again, my experience in gaming and competing in a StarCraft 2 competition in high school, how my gender interacts with what I love to do and my work, and my experience being the only woman on my team and the first female software engineer ever hired in my department.
+some of my peers that moved me deeply: it was inspiring, comforting, and touching. I cried and laughed at the stories that I heard. The talks were poignant and resonant, and the stories that those women on stage shared to me and others in the audience that day inspired me to add my own piece. I wanted to talk about, again, my experience in gaming and competing in a StarCraft 2 competition in high school, how my gender interacts with what I love to do and my work, and my experience being the only woman on my team and the first female software engineer ever hired in my department.
 
 Yet, that post again never survived my unforgiving backspace key. I think it's very hard to write about something you care about, because there's simply so much
-you want to say and no perfect way to feasibly capture all of your thoughts, emotions, and passion you feel about the topic
+you want to say and no perfect way to feasibly capture all of your thoughts, emotions, and passionate feelings you have about the topic
 because it's such a dear part of your identity. I remember when I was competing at Princeton University's Adlai Tournament,
 a motions tournament in the American Parliamentary Debate Association's circuit, and there had been a topic about
 social media and privacy that I had felt so strongly about -- I had done research for two years in this area as well -- but when the time came
-for me to give the opening speech, I floundered. I wasn't coherent, and my arguments were not well-warranted and lacked organization. I had this immense lake of thoughts I had regarding the topic, but I couldn't distill it into a seven-and-a-half minute speech with any amount of clarity. Part of it is there's foundational arguments and beliefs about the topic that, since you've been so immersed in it and for so long, you forget how to articulate, but they're critical. So, since then, I've been especially cautious about how to talk
-about something I am passionate about. I need to think about those foundations.
+for me to give the opening speech, I floundered. I wasn't coherent, and my arguments were not well-warranted and lacked organization. I had this immense lake of thoughts I had regarding the topic, but I couldn't distill it into a seven-and-a-half minute speech with any amount of clarity. Part of it is there's foundational arguments and beliefs about the topic that, since you've been so immersed in it and for so long, you forget how to articulate. But they're critical. So the words catch in your throat. It was frustrating, and that round still bothers me to this day. So, since then, I've been especially cautious about how to talk
+about something I am passionate about. I need to think about those foundations and communicate clearly.
 
-So here goes. It's about women in gaming and some things I've wanted to say. There's some overlap with women in technology, but I'll try to keep that to a minimum just to have some more focus in this post.
+So here goes. It's about women in gaming and some things I've wanted to say about how although as a woman in gaming, there's been times I've been an enemy to that very cause I hold so dear to my heart. There's some overlap with women in technology, but I'll try to keep that to a minimum just to have some more focus in this post.
 
-# "This is what internalized misogyny looks like." -my friend at Riot Games during her lightning talk at our International Women's Day celebration
+# I used to not like other women in gaming.
 
 In my post about my summer at Riot, I talked about how I used to play StarCraft 2 and compete in the HSL, and how I eventually stopped. I'll start from there, and talk about why I quit StarCraft 2. To start, and I only realized this recently (as in, I realized this listening to a lightning talk my friend gave at Riot's International Woman's Day celebration), I should give the context of I used to have a really poor opinion of women. It was internalized misogyny, and when I explain a bit about some of my first opinions about women in gaming, that's reflected in them. That's my disclaimer.
 
@@ -61,19 +61,23 @@ As I've gotten older, my perspective has changed. I'd like to say I'm supportive
 
 I still think there's many barriers to entry to women in gaming, and a side project I've been dedicating some of my time to at Riot (aside from my primary role as a software engineer) is helping tackle the problem of how LCS has no women in our league. I also recently started playing StarCraft 2 again -- casually. It's been a lot of fun. And cathartic in a way.
 
-# Some quick thoughts about transgender women in gaming: Scarlett, Zoe, and Remilia
+# Transgender women in gaming are women in gaming. Women in gaming doesn't implicitly mean cisgender women in gaming.
 
 If you're a StarCraft 2 fan, you might have read the above section and wondered: "What about Scarlett?" -- for those who aren't familiar, Scarlett is a professional Zerg player in SC2 who has won tons of major tournaments. She was at some point arguably the best foreigner and could compete as an equal against Korean players. She's racked up countless accolades and has an incredibly impressive career. She's also a transgender woman. I like this [article covering her if you'd like to learn a bit more about her experience](https://games.avclub.com/how-a-transgender-foreign-hope-is-challenging-the-pro-1798265974).
 
-She came out while I was watching high school, and whenever she competed, Twitch chat was always full of incredibly transphobic comments: that she wasn't a real woman and comments about her looks or voice and how well she passed. My friends and I would shake our heads and comment on how bigoted that behavior was. But to be honest, looking back, I was also a bit transphobic. I also had a friend, Zoe, on my SC2 team who came out as transgender as well, and she was a Masters Zerg (who later on hit Grandmaster some time after I quit playing). And I think in this proximity to a transgender woman, I felt like I was a good ally -- in much the same way that some people justify not being racist (despite doing or saying indisputably racist things) because they have a close friend who is black. But I was reflecting on that time, and that perception and voiced support for the transgender community was probably mostly to feel good about myself and hid some of my own personal prejudices. Implicit in my view of wanting to support women in gaming, was wanting to support _cisgender_ women in gaming. I used to always tell people I was the only girl on my team in high school, and I still thought about wanting to be the first woman in the professional SC2 scene despite Scarlett being around because _I didn't really count transgender women as women_ at that time.
+She came out while I was watching high school, and whenever she competed, Twitch chat was always full of incredibly transphobic comments: that she wasn't a real woman and comments about her looks or voice and how well she passed. My friends and I would shake our heads and comment on how bigoted that behavior was. But to be honest, looking back, I was also ignorant in some ways myself. I also had a friend, Zoe, on my SC2 team who came out as transgender as well, and she was a Masters Zerg (who later on hit Grandmaster some time after I quit playing). And I think in this proximity to a transgender woman and the support I was able to show her, I felt like I was a good ally -- in much the same way that some people justify not being racist (despite doing or saying indisputably racist things) because they have a close friend who is black. But I was reflecting on that time, and that perception and voiced support for the transgender community was probably mostly to feel good about myself and hid some of my own personal prejudices. Implicit in my view of wanting to support women in gaming, was wanting to support _cisgender_ women in gaming. I used to always tell people I was the only girl on my team in high school, and I still thought about wanting to be the first woman in the professional SC2 scene despite Scarlett being around because _I didn't really count transgender women as women_ at that time.
 
 When Remilia passed away, I revisited my beliefs about women in gaming. Remilia's story is pretty fucking awful, and I'd encourage others who don't know about what happened to try to educate themselves about the exploitation and transphobia she experienced from the entire League of Legends community and her team. And her story made me revisit and check myself about how I've previously had opinions that were transphobic, and how I could be a better ally in the future.
 
 Women in gaming and thoughts around it should reflect its name and truly be from the perspective of all women. There isn't an implicit "cisgender" in front of that; transgender women in gaming play an important role for our entire gender identity group and trying to exclude them does a disservice to all of us. Learning how to better support and include transgender women is important. So as a side thought, I'd like to ask anybody reading this who is also not a part of that identity group to join me and check yourself, and think about how to be a better ally.
 
-# A closing thought, again, from the friend who gave the lightning talk
+# A good rallying call
 
-For those of you who are also a woman in gaming: instead of defending the niche you occupy as a woman in the gaming space, make more room for other women. I'll try to do this too.
+My friend who gave the lightning talk also said one more thing I'd like to share:
+
+> For those of you [who are also a woman in gaming]: instead of defending the niche you occupy as a woman in the gaming space, make more room for others.
+
+I'll try to do this too.
 
 # Some other articles I liked
 
