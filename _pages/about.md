@@ -6,13 +6,38 @@ permalink: /about
 
 ### Hi, my name is Grace.
 
-I will start work as a software engineer at Riot Games in late January 2020. I
+I am a software engineer at Riot Games, and have been there since January 2020. I
 studied computer science with a minor in mathematical sciences at Carnegie
 Mellon University, and graduated Fall 2019. Hopefully out to do good in this world.
 
 ### Why does this place exist?
 
+This is taken from Manuel Blum's [_Advice to a Beginning Graduate Student_](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html):
 
+> You are all computer scientists.
+You know what FINITE AUTOMATA can do.
+You know what TURING MACHINES can do.
+For example, Finite Automata can add but not multiply.
+Turing Machines can compute any computable function.
+Turing machines are incredibly more powerful than Finite Automata.
+Yet the only difference between a FA and a TM is that
+the TM, unlike the FA, has paper and pencil.
+Think about it.
+It tells you something about the power of writing.
+Without writing, you are reduced to a finite automaton.
+With writing you have the extraordinary power of a Turing machine.
+
+And another he shares in there from John Shaw Billings:
+
+>  "First have something to say,
+Second say it,
+Third stop when you have said it,
+and
+Finally give it an accurate title."
+
+I've always loved writing. So there's a very personal reason why it exists, which is for my own enjoyment.
+But there's also some things that I like to believe I have to say, and perhaps some people out there who might
+find it mildly valuable. And while I still have that feeling, I'll keep this place alive. 
 
 ### Interests
 
@@ -73,7 +98,7 @@ The image used as an icon is my Chinese name painted by my grandmother before sh
 
 The image used in the homepage jumbotron is made by David Jin, a very talented friend of mine.
 
-### Quote
+### "just a thermodynamic miracle"
 
 The tagline from my page is from _Watchmen_ by Alan Moore. It's from a quote by Dr. Manhattan that I love and has been dear to me through tough times.
 
@@ -97,4 +122,5 @@ It's a scene where Dr. Manhattan tells Laurie that he doesn't think her life in 
 > We gaze continuously at the world and it grows dull in our perceptions. Yet seen from another's vantage point, as if new, it may still take the breath away.
 >
 > Come... Dry your eyes, for you are life, rare than a quark and unpredictable beyond the dreams of Heisenberg; the clay in which the forces that shape all things leave their fingerprints most clearly.
+>
 > Dry your eyes... and let's go home.
