@@ -15,29 +15,40 @@ Mellon University, and graduated Fall 2019. Hopefully out to do good in this wor
 This is taken from Manuel Blum's [_Advice to a Beginning Graduate Student_](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html):
 
 > You are all computer scientists.
-You know what FINITE AUTOMATA can do.
-You know what TURING MACHINES can do.
-For example, Finite Automata can add but not multiply.
-Turing Machines can compute any computable function.
-Turing machines are incredibly more powerful than Finite Automata.
-Yet the only difference between a FA and a TM is that
-the TM, unlike the FA, has paper and pencil.
-Think about it.
-It tells you something about the power of writing.
-Without writing, you are reduced to a finite automaton.
-With writing you have the extraordinary power of a Turing machine.
+>
+> You know what FINITE AUTOMATA can do.
+>
+> You know what TURING MACHINES can do.
+>
+> For example, Finite Automata can add but not multiply.
+>
+> Turing Machines can compute any computable function.
+>
+> Turing machines are incredibly more powerful than Finite Automata.
+>
+> Yet the only difference between a FA and a TM is that the TM, unlike the FA, has paper and pencil.
+>
+> Think about it.
+>
+> It tells you something about the power of writing.
+>
+> Without writing, you are reduced to a finite automaton.
+>
+> With writing you have the extraordinary power of a Turing machine.
 
-And another he shares in there from John Shaw Billings:
+And here is a quote from John Shaw Billings that he shares:
 
->  "First have something to say,
-Second say it,
-Third stop when you have said it,
-and
-Finally give it an accurate title."
+> First have something to say,
+>
+> Second say it,
+>
+> Third stop when you have said it, and
+> 
+> Finally give it an accurate title."
 
 I've always loved writing. So there's a very personal reason why it exists, which is for my own enjoyment.
 But there's also some things that I like to believe I have to say, and perhaps some people out there who might
-find it mildly valuable. And while I still have that feeling, I'll keep this place alive. 
+find it mildly valuable. And while I still have that feeling, I'll keep this place alive.
 
 ### Interests
 
