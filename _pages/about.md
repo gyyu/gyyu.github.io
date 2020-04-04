@@ -113,7 +113,7 @@ The image used in the homepage jumbotron is made by David Jin, a very talented f
 
 The tagline from my page is from _Watchmen_ by Alan Moore. It's from a quote by Dr. Manhattan that I love and has been dear to me through tough times.
 
-It's a scene where Dr. Manhattan tells Laurie that he doesn't think her life in meaningless while they are on Mars. It goes:
+It's a scene where Dr. Manhattan tells Laurie that he doesn't think her life is meaningless while they are on Mars. It goes:
 
 > Dr. Manhattan: Thermodynamic miracles... events with odds so astronomical they're effectively impossible, like oxygen spontaneously becoming gold. I long to observe such a thing.
 > And yet, in each human coupling, a thousand million sperm vie for a single egg. Multiple those odds by countless generations, against the odds of your ancestors being alive; meeting; siring this precise son; that exact daughter...
