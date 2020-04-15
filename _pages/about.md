@@ -8,7 +8,7 @@ permalink: /about
 
 I am a software engineer at Riot Games, and have been there since January 2020. I
 studied computer science with a minor in mathematical sciences at Carnegie
-Mellon University, and graduated Fall 2019. Hopefully out to do good in this world.
+Mellon University, and graduated December 2019. Hopefully out to do good in this world.
 
 ### Why does this place exist?
 
