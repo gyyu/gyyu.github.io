@@ -2,7 +2,7 @@
 layout: post
 title:  "What I Learned (and Still Don't Know) #1 (Q1 2020)"
 author: grace
-categories: [ engineering, personal ]
+categories: [ engineering, career ]
 image: assets/images/posts/20200416/somisomi.jpg
 featured: true
 hidden: false
