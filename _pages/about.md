@@ -52,7 +52,7 @@ find it mildly valuable. And while I still have that feeling, I'll keep this pla
 
 ### Interests
 
-- Gaming (StarCraft, League of Legends, VALORANT(?)
+- Gaming (StarCraft, League of Legends, VALORANT?)
 - Functional programming
 - Machine learning
 - Computer systems
