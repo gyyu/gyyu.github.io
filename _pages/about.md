@@ -60,10 +60,11 @@ find it mildly valuable. And while I still have that feeling, I'll keep this pla
 - Drawing (sketching, watercolor, acrylic, charcoal)
 - Singing
 - Cooking
-- Water rights and the environment
+- Water rights and the environment (read _The Ripple Effect_ by Alex Prud'Homme)
 - Reading (book reviews incoming, hopefully)
 - Biology
 - Writing
+- [Saving the web](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)
 - Trying to become an informed citizen of the world
 
 ### Current Goals (and Progress)
