@@ -4,7 +4,7 @@ title: Notes
 permalink: /notes
 ---
 
-This is where I'll be posting notes from various classes and textbooks that I read. Hopefully they prove to be useful for some people.
+This is where I'll be posting notes from various classes and textbooks that I read, or from write-ups I make that are part of a series. Hopefully something here proves to be useful for somebody.
 
 ### Functional Programming
 
