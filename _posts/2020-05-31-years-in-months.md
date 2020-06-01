@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Decades in Weeks"
+title:  "8 Minutes and 46 Seconds"
 author: grace
 categories: [ personal ]
 image: assets/images/posts/20200531/blm.jpg
