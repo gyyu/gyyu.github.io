@@ -4,7 +4,7 @@ title:  "A Summer at Riot Games"
 author: grace
 categories: [ women, career, riot, gaming ]
 image: assets/images/posts/20191229/esportsdigital.jpg
-featured: true
+featured: false
 hidden: false
 ---
 This post was originally titled "Goodbye, Riot" and I had written a draft after
