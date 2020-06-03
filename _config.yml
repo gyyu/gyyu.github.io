@@ -15,6 +15,7 @@ authors:
     display_name: Gyudon
     email: graceyyu@gmail.com
     description: "o7"
+    avatar: 'assets/images/avatar.jpg'
 
 # Plugins
 plugins:
