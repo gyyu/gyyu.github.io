@@ -5,7 +5,7 @@ author: grace
 categories: [ engineering, career ]
 image: assets/images/posts/20200416/somisomi.jpg
 featured: false
-hidden: false
+hidden: true
 ---
 
 I'm not really sure where to begin. To be completely honest, the past few months have been difficult. It's been hard for me to adjust to working from home and the new rites and rituals that come with living in a pandemic, and it also seems like every morning, there is one more new thing that is wrong with the world. Like many, I've had to put much of my life on pause. I'm thankful that as a junior developer, I was still able to keep my job while I know many others who were not able to.
