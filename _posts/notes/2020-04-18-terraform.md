@@ -1,3 +1,12 @@
+---
+layout: post
+title:  ""
+author: grace
+categories: []
+featured: false
+hidden: true
+---
+
 - terraform is a configuration language across many different cloud providers
 - mindshare of current state of the world?
 - how to interact w/ terraform:
@@ -42,4 +51,4 @@ so, tf tries to figure out the state of config live right now, what you want, th
     - don't use terraform less recent than 10
 - can also do standard variable interpolation `${VAR_NAME}`
 - a variable has to be pre-defined before used, like in the vars.tf file
-- tf tries to be strongly typed -- will fail sometimes, but it's attempting! 
+- tf tries to be strongly typed -- will fail sometimes, but it's attempting!
