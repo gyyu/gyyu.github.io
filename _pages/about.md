@@ -89,20 +89,13 @@ find it mildly valuable. And while I still have that feeling, I'll keep this pla
   teenage romance novels, so I always skipped over it. Oh my. It's a lot more than that. Pretty interesting
   book.
 - Exercise regularly
-  - Started rock climbing. I can do some crimpy V4s? Slopers? Ha. Not a chance.
-  Working on it.
-  - Weight lifting. Have not been good about doing this consistently as of December 2019, and have been
-  plateauing at around 100 lbs for squats, 125 lbs for deadlifts, 55 lbs for benches.
-- [Hit Platinum this season](https://na.op.gg/summoner/userName=Riot+Gyudon)
-  - I'm Gold III! (or was -- darn it the season started)
+  - yeah I don't really know what happened to this in the pandemic
 
 ### Current Projects
 
 - Instagram
   - Currently trying to use Instagram to post images of drawings, videos of piano bits, and other attempts
   for me to revisit my childhood hobbies. They won't be good at first, but I think it'd be fun to (one day) look back at the progress.
-- 100 Days of Code
-  - Progress is on Github
 
 ### Images
 
