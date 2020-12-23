@@ -8,8 +8,8 @@ This is where I'll be posting notes from various classes and textbooks that I re
 
 ### Functional Programming
 
-1. [Part 1: SML Basics (and Intro)](gyyu.github.io/fp-1)
-2. [Part 2: Evaluation, Functions, and Patterns](gyyu.github.io/fp-2)
+1. [Part 1: SML Basics (and Intro)](fp-1)
+2. [Part 2: Evaluation, Functions, and Patterns](fp-2)
 
 ### Designing Data-Intensive Applications
 
