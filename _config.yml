@@ -1,58 +1,47 @@
-# Site
-name: "Gyudon"
-title: "Gyudon"
-description: "just a thermodynamic miracle"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+title: Gyudon
+author: Grace Yu
+description: cats are great
 baseurl: ''
-include: ["_pages"]
-permalink: /:title/
+future: true
 
-# Authors
-authors:
-  grace:
-    name: Grace
-    display_name: Gyudon
-    email: graceyyu@gmail.com
-    description: "o7"
-    avatar: 'assets/images/avatar.jpg'
+theme: 'tufte-pandoc-jekyll'
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+permalink: '/:categories/:slug/'
+
+markdown: Pandoc
+pandoc:
+  extensions:
+    - section-divs
+    - from: 'markdown+smart+tex_math_single_backslash'
+    - filter: 'pandoc-sidenote'
+
+header_includes:
+  - '<link rel="icon" sizes="16x16" href="/assets/images/favicon.ico">'
+  - '<link rel="stylesheet" href="/assets/css/extras.css">'
+
+gems:
   - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
+  - jekyll-pandoc
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
+  - tags
 
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
+# Octopress configuration
 
-# Pagination
-paginate: 6
-paginate_path: /page:num/
+post_ext: md
+page_ext: md
 
-# Other
-markdown: kramdown
+# Default templates for posts and pages
+post_layout: post
+page_layout: page
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
+# Format titles with titlecase?
+titlecase: true
 
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
-
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
-
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+# Change default template file (in _templates/)
+post_template: post
+page_template: page
+draft_template: post

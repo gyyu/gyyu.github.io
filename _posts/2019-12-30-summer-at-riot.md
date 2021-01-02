@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "A Summer at Riot Games"
-author: grace
-categories: [ women, career, riot, gaming ]
-image: assets/images/posts/20191229/esportsdigital.jpg
-featured: true
-hidden: false
+subtitle: "A reflection on my Summer 2019 software engineering internship at Riot Games"
+date: 2019-12-30
 ---
+
+![The Esports Digital team, Summer 2019](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/esportsdigital.jpg)
+
+<section>
+
 This post was originally titled "Goodbye, Riot" and I had written a draft after
 returning back home from Santa Monica, CA and missing Riot. It had been the best summer of my life to date.
 Let me tell you a bit
@@ -25,15 +27,16 @@ Here's the outline I'm hoping to follow.
 7. My words of advice for a Rioter-wannabe
 7. Some funsies
 
-# Let me first tell you about myself and gaming.
+</section>
 
-I struggle with identifying as a gamer. My older brother was the one who planted the seeds
+<section>
+## Let me first tell you about myself and gaming.
+
+<span class="newthought">I struggle with identifying as a gamer.</span> My older brother was the one who planted the seeds
 for many aspects of my personality -- my childhood music taste, television shows I watched, and anime I enjoyed
 were hand-me-downs from him. We weren't particularly close, but were similar out of proximity.
 Between the two of us, he was the gamer. He owned a few Gameboy consoles and when my parents
-bought him a Gameboy SP, he'd sometimes loan me his Gameboy Advanced to play games like Golden Sun II and Spyro
-(my parents had bought the game for him just based on pictures, so he had a thrift shop of a collection with nonconsecutive,
-random jumps in series). But mostly, I enjoyed watching him play games. There's a picture of us as children that my parents took
+bought him a Gameboy SP, he'd sometimes loan me his Gameboy Advanced to play games like Golden Sun II and Spyro[^parents]. But mostly, I enjoyed watching him play games. There's a picture of us as children that my parents took
 of us two on a couch, me leaning over and watching over his shoulder as he plays on his Gameboy. Later,
 when he moved on to playing PC games, since we only had one computer, I'd sit by him and watch. I especially loved it when he played
 Red Alert: Yuri's Revenge as I could watch the minimap for Kirov Airships and warn my brother, or, when Cabin Fever was released
@@ -41,14 +44,15 @@ in Combat Arms, my brother would take the door next to the basement stairs that 
 special zombies (there were dasher zombies that needed to be taken care of first) and also when zombies would come bursting in from
 the basement (so he could just focus his attention on shooting and the main doorway).
 
-It was a lot of fun. But I never played much myself. So I never thought of myself as a gamer. There's some classics
-gamers cite and reminisce in among themselves, like Skyrim, Diablo, World of Warcraft, Runescape, etc.: games I've never touched.
+[^parents]: {-}
+  My parents had bought the game for him just based on pictures, so he had a thrift shop of a collection with nonconsecutive, random jumps in series.
 
-It was only when I got into StarCraft II that this changed. I've talked a bit about it
-[here](https://tl.net/blogs/410147-thanks-for-changing-my-life). To be honest,
-I cringe a bit whenever I read this so I'd like to preface this by noting that I was
-a sophomore (?) in high school at the time. But, it's a pretty thorough account (vs. my present-day account
-which has suffered from a few visits by the eraser in my mind).
+It was a lot of fun. But I never played much myself. So I never thought of myself as a gamer. There's some classics
+gamers cite and reminisce in among themselves, like Skyrim, Diablo, World of Warcraft, Runescape, etc.: games I've never touched. It was only when I got into StarCraft II that this changed. I've talked a bit about it
+[here](https://tl.net/blogs/410147-thanks-for-changing-my-life).[^sc2]
+
+[^sc2]: {-}
+  To be honest, I cringe a bit whenever I read this so I'd like to preface this by noting that I was a sophomore (?) in high school at the time. But, it's a pretty thorough account (vs. my present-day account which has suffered from a few visits by the eraser in my mind).
 
 I played Zerg and first
 started laddering by following Apollo's Bronze to Diamond series where he would take fresh accounts
@@ -89,6 +93,8 @@ do any better (because I know that's probably impossible):
 >Our community is smart, supportive, funny, irreverent, international, insightful, and intolerant of bullsh*t.
 >
 >We think you should be one of us.
+>
+> -- Sean "Day9" Plott, _The StarCraft Manifesto_
 
 We fell apart from issues that had started to plague the entire StarCraft community --
 fears of the game being "dead", Blizzard seeming to neither care nor listen to concerns about
@@ -97,9 +103,12 @@ broken late-game compositions meaning that competitive play was starting to be l
 attitude that the StarCraft community had versus other games. For example, League of Legends,
 a game which had been taking off in popularity, was considered to be "easy", "mindless" --
 it didn't require any of the grand and complicated builds that StarCraft had required, its APM and micro
-demands were childish in comparison to bonjwas masterfully controlling both macro and massive armies, and people
+demands were childish in comparison to bonjwas[^bonjwa] masterfully controlling both macro and massive armies, and people
 were resentful during gaming events when the League of Legends crowds would cheer so loudly they'd bleed
 into the StarCraft livestreams.
+
+[^bonjwa]: {-}
+  From Liquipedia: Bonjwa is a term used to describe a player who dominates the StarCraft scene for a long period of time. A bonjwa has a very high winning percentage and successive title wins. However, a bonjwa is not defined by statistics or records. Rather, a general consensus is reached that [the player] is the most dominant progamer of his era.
 
 People had wanted our club to become a general "Esports Club", but my friend and co-founder had
 disagreed. When people were playing other games that weren't StarCraft, there was constant pressure
@@ -108,18 +117,20 @@ in addition to unrelated and unnecessary personal comments such as insinuating t
 StarCraft.
 
 StarCraft had been wonderful when we had our entire little friend group built around the game. It was so much fun.
-I one time played on Husky's Arcade w/ Subs games (I was the MVP zergling, but alas, Husky has since
-removed all of his StarCraft videos which I'm honestly still a bit bitter about -- that's StarCraft history he just
-essentially erased in one fell swoop). We did Funday Mondays. Linked TeamLiquid posts and Reddit posts about
+I one time played on Husky's Arcade w/ Subs games[^husky]. We did Funday Mondays. Linked TeamLiquid posts and Reddit posts about
 funny clips or images (I remember one of my favorite images was one of Life during an interview where two microphones
 were unfortunately placed right over his eyes). I dreamed (I know, silly) of possibly even being a professional StarCraft
 player someday.
+
+[^husky]: {-}
+  I was the MVP zergling, but alas, Husky has since
+  removed all of his StarCraft videos which I'm honestly still a bit bitter about -- that's StarCraft history he essentially erased in one fell swoop.
 
 But StarCraft stopped being fun in our junior year of high school, and the club fell apart. I never looked back.
 As an act of almost rebellion, I made a League of Legends account and started playing. So it's been ever since. It's what gaming always was supposed to
 be at its core for me: fun.
 
-# Why Riot?
+## Why Riot?
 
 I graduated high school as a pretty "OP" student. I had perfect grades, an essentially perfect SAT score,
 and was a prolific debater and Science Olympiad competitor. I didn't do it for the applications though -- I really did just
@@ -136,13 +147,14 @@ goal of mine. Or, at least, I hope I don't.
 
 At this point, I never took League of Legends seriously and never tried to get better at the game. I played
 quite a bit (mostly normals and ARAMs), but mostly I just
-watched professional games -- I started watching in Season 2, and remember the debut game WildTurtle had on
+watched professional games -- I started watching in Season 2, and remember the debut game WildTurtle[^turtle] had on
 TSM with his famous Caitlyn pentakill, securing himself the spot and the final nail in Chaox's coffin. I loved
 TSM. They were the embodiment of everything I had loved about gaming in the past -- just the _fun_ I had with
 my old friend group, and watching their GameCrib videos wrought a sort of bittersweet nostalgia
 in addition to the laughs.
 
-![Meeting Turtle](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/turtle.png "Hugging WildTurtle! Fun fact, I cried right after this.")
+[^turtle]: {-}
+  ![Meeting Turtle](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/turtle.png) Hugging WildTurtle! Fun fact, I cried right after this.
 
 Gaming -- or rather, StarCraft -- was sort of like an origin story to me up to this point.
 It didn't feel like my current self. I felt like it was an important part of my identity, but
@@ -188,9 +200,9 @@ It turns out M.H. had also been involved with the HSL/CSL organization and TESPA
 we bonded over this common connection. I started my interviews with Riot Games, and right after I had been informed
 that I had passed the first round, the Kotaku article came out.
 
-# The Kotaku Article
+## The Kotaku Article
 
-If you have never read the Kotaku article, you should. [Here's the link](https://kotaku.com/inside-the-culture-of-sexism-at-riot-games-1828165483). The article details
+<span class="newthought">If you have never read the Kotaku article, you should.</span> [Here's the link](https://kotaku.com/inside-the-culture-of-sexism-at-riot-games-1828165483). The article details
 a culture of sexism that had manifested its ugly, rearing head at Riot Games; the article describes how "gamer bro culture" had contributed to a workplace at Riot Games that was falsely
 called meritocratic (claims of meritocracy that had attracted me to want to work there) but in reality was toxic and unwelcoming to women.
 
@@ -258,7 +270,7 @@ but it was possible.
 
 And just like that, I became a part of the Class of 2019 Summer Interns.
 
-# This is what I experienced.
+## This is what I experienced.
 
 When you first join Riot Games, you go through an orientation period known as Denewb (Riot is full of these sort of cute names and conventions).
 I met other interns, and there were actually a few who had no experience playing League of Legends (but, the intern program leaders had reached out to them
@@ -346,7 +358,7 @@ throughout undergrad with one person in southern California and the other in Geo
 Y.C.T. and S.S. are chatting with my mentor for a 1:1. My team might be all men, but they are all allies. They've treated me with so much respect and kindness, and there hasn't been a day that's
 gone by where I haven't laughed hard about something (apparently many people in the building know who I am because I laugh so loudly and frequently).
 
-![YT Comments](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/comments.png "The comments on the video")
+![YT Comments](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/comments.png) There is a screenshot of comments from the video on internship mentoring that I took a bit after it was released. 
 
 These are the comments on the video I mentioned above. I remember feeling upset and frustrated, and talked with M.W. who felt similarly. I felt almost defensive of Riot, and it was the
 first time I had this moment where I felt like I was a part of Riot, and everybody else was an outsider. It was the first time I felt like a Rioter.
@@ -362,8 +374,6 @@ wholesomely welcomed.
 
 I came in wanting to see what it was truly like to work at Riot Games. I left knowing what it was like to be a Rioter.
 
-![Riv and me](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/riv.jpg "Riv and Me")
-
 Since I worked in esports, I frequently ran into esports personalities and prominent figures, and every single time, I'd freak out (I got made fun of so much for this by my team). I
 once ran into Riv when I got locked out of the building, and he let me in. I had (as usual) freaked out at talking to him, and he asked me if I wanted a picture, and I declined because
 I didn't want to delay him. When I told my team later on, they laughed and asked me, "How could you turn Riv down?" I had panicked and realized wait, that's exactly what I had done. I was
@@ -371,9 +381,12 @@ just being courteous! Of course I wanted a picture. Right before I left, I asked
 little bit (he agreed to meet me backstage despite casting for an event, hence his get-up) and even he knew me from my laugh! Riv, I want you to know
 you're my favorite caster.
 
-Also, I owe many thanks to L.A. -- he helped me write the request to Riv to ask for a picture, and also came with me to go and get a picture with him. Thanks again!
+Also, I owe many thanks to L.A. -- he helped me write the request to Riv to ask for a picture[^riv], and also came with me to go and get a picture with him. Thanks again!
 
-# Pros and Cons
+[^riv]: {-}
+  ![Riv and me](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/riv.jpg) Riv is awesome. Thanks Laith!
+
+## Pros and Cons
 
 Here's my shortlist.
 
@@ -396,7 +409,7 @@ direction and make longer strides.
 * (!) For somebody who is a software engineer, Riot Games is no huge tech company. It's a gaming company. For example, for art, Riot is the top of the line for a career in the field. But,
 when it comes to engineering, you probably cannot just ubiquitously say that Riot is the place to be. It depends on what you're looking for and what your goals are.
 
-# What I learned
+## What I learned
 
 I'll probably make a separate post about the technical side of things (especially after I have a better idea of what I can and cannot talk about), but
 some of the technologies I worked with are Preact, JSX, and GraphQL. I made a "Jump to Start" on VODs on the watch platform, a [new
@@ -406,9 +419,9 @@ I chose to stay on front-end because that's what my mentor worked on (so I'd rat
 reach out to H.S. when I wanted to learn more about the back-end (and he also let me just stare at his screen as he walked through setting up a new
 monitoring system). When I return to the team, that's what I'll be working on.
 
-# I'm returning!
+## I'm returning!
 
-I've talked extensively above about the culture and people of Riot, and how I have never been happier anywhere else. But probably here are some other
+I've talked extensively above about the culture and people of Riot[^jacket], and how I have never been happier anywhere else. But probably here are some other
 reasons I also wanted to return besides that:
 
 * There are some very talented engineers at Riot that are highly accessible. There isn't some insurmountable difference in quality of engineers between Riot and
@@ -430,16 +443,17 @@ larger company's bureaucracy wouldn't quite give me access to (or perhaps it's a
 * Competitive compensation. Not too much more to say here.
 * Santa Monica has beautiful weather. Also, it's not too far from my brother which is a nice perk.
 
-![L33t jacket](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/l33t_coat.jpg "An esports jacket I was given during my internship")
+[^jacket]: {-}
+  ![L33t jacket](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/l33t_coat.jpg) An esports jacket I was given during the internship. The shoulders have badges with varsity-badge-esque attachments we can put for each esports event we've worked on (the patches I put on were MSI 2019 and Worlds 2019).
 
-# Some thoughts for prospective Rioters (internships):
+## Some thoughts for prospective Rioters (internships):
 
 * If you are a fan of League of Legends or just somebody where gaming is something which is important to you, you will love working at
-Riot. But, you don't have to be a "gamer" or be highly ranked in League of Legends or even play the game at all in some cases (a few interns
+Riot. **But, you don't have to be a "gamer" or be highly ranked in League of Legends or even play the game at all in some cases** (a few interns
 had never played the game before, but still 1) made huge contributions, 2) had a great time, and 3) got return offers) -- but I would say
 (in my opinion) you should at least take gaming seriously and believe there is a really positive impact that the games and products we work on
 can have on the world.
-* There are some really awesome people at Riot. That's what really makes the experience, in my opinion. You're going to find good friends and good
+* There are some **really awesome people at Riot.** That's what really makes the experience, in my opinion. You're going to find good friends and good
 mentors. Whether you're at Riot or not, I think that the feedback culture and growth mindset Riot encourages is a positive one to maintain whether
 in your professional or personal life. I'd always recommend reaching out to people to ask them for their perspective or their two cents, and
 people are always open to have a 1:1 dropped into their calendar.
@@ -454,7 +468,7 @@ a "gamer bro" stereotype). I definitely found that every intern was empathetic a
 not gatekeep yourself out from applying to Riot Games because you don't think you're enough of a gamer.* If you fit the above but say, don't play a huge
 amount of League of Legends, you should apply anyways --
 weeding yourself out is doing a disservice to the company that would likely have loved to have somebody like you.
-* Re: sexism. This is what I mostly wanted to write this post for, and I offer here just one perspective. Don't just take mine. Ask others.
+* Re: sexism. This is what I mostly wanted to write this post for, and I offer here just one perspective. **Don't just take mine. Ask others.**[^others]
 I encourage you to do what I did, and find out for yourself what you believe the culture of Riot to be like and whether it's a good fit for you.
 You don't owe Riot anything; you don't necessarily owe Riot a chance --  but if you're a bit like me, and perhaps your passions and interests
 are a bit like me, I think you should give it a chance.
@@ -462,7 +476,12 @@ I had a very positive experience, and while I am not redeeming the company or cl
 quite a bit of work to be done), I found a supportive environment where I could thrive. There's a [danger in the single story](https://youtu.be/D9Ihs241zeg)
 and so I encourage you to find other narratives. But, I hope mine was helpful to you.
 
-# Funsies
+[^others]: {-}
+  Here is a non-exhaustive list of some Rioters I've come to greatly admire (I'm writing these down in December 2020 now that I've been at Riot for a bit; hopefully there are more to come as I meet more Rioters!): [Iris Zhang](https://twitter.com/RiotNyanbun), [Su Liu](https://twitter.com/wordsfromsu), and [Jules Glegg](https://twitter.com/heyjulesfern).
+
+</section>
+<section>
+## Funsies
 
 Here are some bonus images from my time there.
 
@@ -501,3 +520,5 @@ And lastly, found an injured bird and took care of it on my apartment balcony:
 ![Bird](https://github.com/gyyu/gyyu.github.io/raw/master/assets/images/posts/20191229/birb.jpg "They grow up so fast. Goodbye, birb!")
 
 GG Riot! Until next time!
+
+</section>
