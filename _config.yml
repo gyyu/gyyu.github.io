@@ -3,6 +3,7 @@ author: Grace Yu
 description: cats are great
 baseurl: ''
 future: true
+root: /
 
 theme: 'tufte-pandoc-jekyll'
 
