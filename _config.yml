@@ -1,9 +1,10 @@
 title: Gyudon
 author: Grace Yu
 description: cats are great
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: ''
-future: true
-root: /
+permalink: /:title/
 
 theme: 'tufte-pandoc-jekyll'
 
