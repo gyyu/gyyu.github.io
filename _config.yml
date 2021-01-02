@@ -22,6 +22,7 @@ pandoc:
 header_includes:
   - '<link rel="icon" sizes="16x16" href="https://gyyu.github.io/assets/images/favicon.ico">'
   - '<link rel="stylesheet" href="https://gyyu.github.io/assets/css/extras.css">'
+  - '<link rel="stylesheet" href="https://gyyu.github.io/assets/css/main.scss">'
 
 gems:
   - jekyll-feed
