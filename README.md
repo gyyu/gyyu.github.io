@@ -1,3 +1,3 @@
-# Grace Yu
+# Gyudon
 
-Hi. Look around?
+A spot for my shenanigans

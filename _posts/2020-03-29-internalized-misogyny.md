@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Internalized Misogyny"
-author: grace
-categories: [ gaming, women ]
-image: assets/images/posts/20200329/iwdpin.jpg
-featured: false
-hidden: false
+title:  Internalized Misogyny
+subtitle: Some realizations I had about myself and women in gaming
+date: 2020-03-29
 ---
 
+<section>
 I have a problem with finishing projects. "Work in progress" is a phrase that describes me well -- whether it be
 my attitude towards myself or with how my room is scattered with projects in various stages of progress. When I go climbing,
 I tend to either send a project or never try it again. It's been a while since I just drilled out a piece on the piano to full mastery;
@@ -23,6 +21,9 @@ and general bigotry towards transgender women. But that post never saw the light
 Riot Alliance of Diverse Genders, and it's a Rioter Identity Group, much like Employee Resource Groups at other companies) where I listened to speeches and lightning talks from
 some of my peers that moved me deeply: it was inspiring, comforting, and touching. I cried and laughed at the stories that I heard. The talks were poignant and resonant, and the stories that those women on stage shared to me and others in the audience that day inspired me to add my own piece. I wanted to talk about, again, my experience in gaming and competing in a StarCraft 2 competition in high school, how my gender interacts with what I love to do and my work, and my experience being the only woman on my team and the first female software engineer ever hired in my department.
 
+</section>
+<section>
+
 Yet, that post again never survived my unforgiving backspace key. I think it's very hard to write about something you care about, because there's simply so much
 you want to say and no perfect way to feasibly capture all of your thoughts, emotions, and passionate feelings you have about the topic
 because it's such a dear part of your identity. I remember when I was competing at Princeton University's Adlai Tournament,
@@ -33,7 +34,7 @@ about something I am passionate about. I need to think about those foundations a
 
 So here goes. It's about women in gaming and some things I've wanted to say about how although as a woman in gaming, there's been times I've been an enemy to that very cause I hold so dear to my heart. There's some overlap with women in technology, but I'll try to keep that to a minimum just to have some more focus in this post.
 
-# I used to not like other women in gaming.
+## I used to not like other women in gaming.
 
 In my post about my summer at Riot, I talked about how I used to play StarCraft 2 and compete in the HSL, and how I eventually stopped. I'll start from there, and talk about why I quit StarCraft 2. To start, and I only realized this recently (as in, I realized this listening to a lightning talk my friend gave at Riot's International Woman's Day celebration), I should give the context of I used to have a really poor opinion of women. It was internalized misogyny, and when I explain a bit about some of my first opinions about women in gaming, that's reflected in them. That's my disclaimer.
 
@@ -61,7 +62,7 @@ As I've gotten older, my perspective has changed. I'd like to say I'm supportive
 
 I still think there's many barriers to entry to women in gaming, and a side project I've been dedicating some of my time to at Riot (aside from my primary role as a software engineer) is helping tackle the problem of how LCS has no women in our league. I also recently started playing StarCraft 2 again -- casually. It's been a lot of fun. And cathartic in a way.
 
-# Transgender women in gaming are women in gaming. Women in gaming doesn't implicitly mean cisgender women in gaming.
+## Transgender women in gaming are women in gaming. Women in gaming doesn't implicitly mean cisgender women in gaming.
 
 If you're a StarCraft 2 fan, you might have read the above section and wondered: "What about Scarlett?" -- for those who aren't familiar, Scarlett is a professional Zerg player in SC2 who has won tons of major tournaments. She was at some point arguably the best foreigner and could compete as an equal against Korean players. She's racked up countless accolades and has an incredibly impressive career. She's also a transgender woman. I like this [article covering her if you'd like to learn a bit more about her experience](https://games.avclub.com/how-a-transgender-foreign-hope-is-challenging-the-pro-1798265974).
 
@@ -71,16 +72,24 @@ When Remilia passed away, I revisited my beliefs about women in gaming. Remilia'
 
 Women in gaming and thoughts around it should reflect its name and truly be from the perspective of all women. There isn't an implicit "cisgender" in front of that; transgender women in gaming play an important role for our entire gender identity group and trying to exclude them does a disservice to all of us. Learning how to better support and include transgender women is important. So as a side thought, I'd like to ask anybody reading this who is also not a part of that identity group to join me and check yourself, and think about how to be a better ally.
 
-# A good rallying call
+## A good rallying call
 
 My friend who gave the lightning talk also said one more thing I'd like to share:
 
-> For those of you [who are also a woman in gaming]: instead of defending the niche you occupy as a woman in the gaming space, make more room for others.
+> For those of you [who are also a woman in gaming]: 
+> instead of defending the niche you occupy as a woman in the gaming space, make more room for others.
+>
+> -- Ronnie Blackburn
+
 
 I'll try to do this too.
 
-# Some other articles I liked
+</section>
+<section>
+
+## Some other articles I liked
 
 * [https://kotaku.com/the-cost-of-being-a-woman-who-covers-video-games-1840793836](https://kotaku.com/the-cost-of-being-a-woman-who-covers-video-games-1840793836)
 * [https://www.critical-distance.com/2019/12/30/this-year-in-videogame-blogging-2019/](https://kotaku.com/the-cost-of-being-a-woman-who-covers-video-games-1840793836)
 * [https://kotaku.com/young-women-are-reclaiming-the-word-egirl-1836738879](https://kotaku.com/the-cost-of-being-a-woman-who-covers-video-games-1840793836)
+</section>
