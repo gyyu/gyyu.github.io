@@ -4,6 +4,8 @@ description: cats are great
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
+url: ''
+root: /
 permalink: /:title/
 
 theme: 'tufte-pandoc-jekyll'
