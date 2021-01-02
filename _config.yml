@@ -1,58 +1,58 @@
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Site
+name: "Gyudon"
+title: "Gyudon"
+description: "just a thermodynamic miracle"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+url: http://gyyu.github.io
+permalink: /:title/
 
-title: Gyudon
-author: Grace Yu
-description: a place for my shenanigans
-baseurl: ""
-url: "https://gyyu.github.io"
-future: true
+# Authors
+authors:
+  grace:
+    name: Grace
+    display_name: Gyudon
+    email: graceyyu@gmail.com
+    description: "o7"
+    avatar: 'assets/images/avatar.jpg'
 
-theme: 'tufte-pandoc-jekyll'
-
-permalink: '/:categories/:slug/'
-
-# TODO(jez): figure out how to get optional TOC? we'd need to:
-#   - update the 'extensions:' below
-#   - grab it from the generated pandoc
-#   - add it to the default.html template
-markdown: Pandoc
-pandoc:
-  extensions:
-    - section-divs
-    - from: 'markdown+smart+tex_math_single_backslash'
-    - filter: 'pandoc-sidenote'
-
-# HACK(jez): We have to hard code the site.baseurl here
-header_includes:
-  - '<link rel="apple-touch-icon-precomposed" href="/thoughts/assets/img/touch-icon.png">'
-  - '<link rel="icon" sizes="32x32" href="/thoughts/assets/img/favicon@2x.png">'
-  - '<link rel="icon" sizes="16x16" href="/thoughts/assets/img/favicon.png">'
-  - '<link rel="stylesheet" href="/thoughts/assets/css/extras.css">'
-
-gems:
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
-  - jekyll-pandoc
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - .gitignore
-  - tags
+  - jekyll-seo-tag
+  - jekyll-archives
 
-# Octopress configuration
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
 
-post_ext: md
-page_ext: md
+# Pagination
+paginate: 6
+paginate_path: /page:num/
 
-# Default templates for posts and pages
-post_layout: post
-page_layout: page
+# Other
+markdown: kramdown
 
-# Format titles with titlecase?
-titlecase: true
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
-# Change default template file (in _templates/)
-post_template: post
-page_template: page
-draft_template: post
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
