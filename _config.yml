@@ -1,33 +1,58 @@
-title: Gyudon
-author: Grace Yu
-description: cats are great
+# Site
+name: "Gyudon"
+title: "Gyudon"
+description: "just a thermodynamic miracle"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-url: ''
-root: /
+url: http://gyyu.github.io
 permalink: /:title/
 
-theme: 'tufte-pandoc-jekyll'
+# Authors
+authors:
+  grace:
+    name: Grace
+    display_name: Gyudon
+    email: graceyyu@gmail.com
+    description: "o7"
+    avatar: 'assets/images/avatar.jpg'
 
-markdown: Pandoc
-pandoc:
-  extensions:
-    - section-divs
-    - from: 'markdown+smart+tex_math_single_backslash'
-    - filter: 'pandoc-sidenote'
-
-header_includes:
-  - '<link rel="icon" sizes="16x16" href="https://gyyu.github.io/assets/images/favicon.ico">'
-  - '<link rel="stylesheet" href="https://gyyu.github.io/assets/css/main.css">'
-  - '<link rel="stylesheet" href="https://gyyu.github.io/assets/css/extras.css">'
-
-gems:
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
-  - jekyll-pandoc
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - .gitignore
-  - tags
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
