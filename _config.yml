@@ -10,8 +10,6 @@ permalink: /:title/
 
 theme: 'tufte-pandoc-jekyll'
 
-permalink: '/:categories/:slug/'
-
 markdown: Pandoc
 pandoc:
   extensions:
