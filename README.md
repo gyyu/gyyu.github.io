@@ -1,3 +1,3 @@
 # Grace Yu
 
-Hi. Look around?
+> an online space for my shenanigans

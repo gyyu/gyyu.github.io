@@ -6,7 +6,7 @@ permalink: /about
 
 ### Hi, my name is Grace.
 
-I am a software engineer at Riot Games, and have been there since January 2020. I
+I have been a software engineer at Riot Games since January 2020. I
 studied computer science with a minor in mathematical sciences at Carnegie
 Mellon University, and graduated December 2019. Hopefully out to do good in this world.
 
@@ -50,6 +50,17 @@ I've always loved writing. So there's a very personal reason why this place exis
 But there's also some things that I like to believe I have to say, and perhaps some people out there who might
 find it mildly valuable. And while I still have that feeling, I'll keep this place alive.
 
+### Current Goals (last updated 01/03/2021)
+
+- Complete the 100 Days of Code challenge
+- Read 12 books
+  - Finished: Water for Elephants by Sara Gruen (sometime in October 2019). 
+  - Finished: The Three Body Problem by Liu Cixin (sometime in November 2019).
+  - Finished: Never Let Me Go by Kazuo Ishiguro (11/28/2019).
+  - Finished: Algorithsm to Live By Brian Christian and Tom Griffiths (12/30/2020).
+- Exercise regularly
+- Produce more content (posting on my hobby Instagram, making more videos, writing more posts and write-ups)
+
 ### Interests
 
 - Gaming (StarCraft, League of Legends, VALORANT?)
@@ -66,36 +77,6 @@ find it mildly valuable. And while I still have that feeling, I'll keep this pla
 - Writing
 - [Saving the web](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)
 - Trying to become an informed citizen of the world
-
-### Current Goals (and Progress)
-
-- Complete the 100 Days of Code challenge
-- Read 12 books
-  - Finished: Water for Elephants by Sara Gruen (sometime in October 2019). Picked this up
-  after my library had a collection of books that had been banned at schools, which intrigued
-  me in that immature, defiant manner -- you know, the: "You told me not to do this? Fine, I'll go and do it now _just_ because you said not to!". I didn't
-  read anything about it going in, but I'm pretty sure it was banned just because of
-  some obscenities that are a circus's normalcy -- it's a circus, after all.
-  - Finished: The Three Body Problem by Liu Cixin (sometime in November 2019). The background set in
-  the Cultural Revolution and the Red Guard had some personal ties to me. I enjoyed it. I also have
-  been meaning to read more Chinese literature. I used to always say I'd kill myself in the event of a
-  zombie apocalypse, but this book convinced me to try a bit more. What does it take to defy your
-  entire biological race? Not sure. But I felt a bit ashamed after reading it for giving up
-  so easily on humanity just because it would be pretty stressful and frightening to exist
-  during a zombie apocalypse.
-  - Finished: Never Let Me Go by Kazuo Ishiguro (11/28/2019). I've heard of this book for a while.
-  Never actually picked it up because the name made me feel like it was a sappy teenage romance novel,
-  which I genuinely enjoy honestly, but I'm Much Too Old For That (tm) and Grown Up to be reading
-  teenage romance novels, so I always skipped over it. Oh my. It's a lot more than that. Pretty interesting
-  book.
-- Exercise regularly
-  - yeah I don't really know what happened to this in the pandemic
-
-### Current Projects
-
-- Instagram
-  - Currently trying to use Instagram to post images of drawings, videos of piano bits, and other attempts
-  for me to revisit my childhood hobbies. They won't be good at first, but I think it'd be fun to (one day) look back at the progress.
 
 ### Images
 
