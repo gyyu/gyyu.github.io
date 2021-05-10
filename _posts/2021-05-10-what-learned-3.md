@@ -3,7 +3,7 @@ layout: post
 title:  "Major Version Update"
 author: grace
 categories: [ engineering, career ]
-image: assets/images/posts/20210510/sunset.png
+image: assets/images/posts/20210510/sunset.heic
 featured: false
 hidden: false
 ---
