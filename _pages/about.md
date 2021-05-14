@@ -6,9 +6,7 @@ permalink: /about
 
 ### Hi, my name is Grace.
 
-I have been a software engineer at Riot Games since January 2020. I
-studied computer science with a minor in mathematical sciences at Carnegie
-Mellon University, and graduated December 2019. Hopefully out to do good in this world.
+I am a software engineer at Riot Games. I joined in January 2020, and also interned the year before in the summer of 2019. I am currently a software engineer on the Gateway team in Esports Digital, and in June 2021 I will be moving to VALORANT's Social and Player Dynamics team. I studied computer science with a minor in mathematical sciences at Carnegie Mellon University, and graduated December 2019. Hopefully out to do good in this world.
 
 ### Why does this place exist?
 
@@ -57,7 +55,7 @@ find it mildly valuable. And while I still have that feeling, I'll keep this pla
   - Finished: Water for Elephants by Sara Gruen (sometime in October 2019). 
   - Finished: The Three Body Problem by Liu Cixin (sometime in November 2019).
   - Finished: Never Let Me Go by Kazuo Ishiguro (11/28/2019).
-  - Finished: Algorithsm to Live By Brian Christian and Tom Griffiths (12/30/2020).
+  - Finished: Algorithms to Live By Brian Christian and Tom Griffiths (12/30/2020).
 - Exercise regularly
 - Produce more content (posting on my hobby Instagram, making more videos, writing more posts and write-ups)
 
@@ -83,30 +81,3 @@ find it mildly valuable. And while I still have that feeling, I'll keep this pla
 The image used as an icon is my Chinese name painted by my grandmother before she passed away. She did Chinese calligraphy, and I asked her to write my name. This was before her illness worsened, but you can already see the tremors seeping into her strokes.
 
 The image used in the homepage jumbotron is made by David Jin, a very talented friend of mine.
-
-### "just a thermodynamic miracle"
-
-The tagline from my page is from _Watchmen_ by Alan Moore. It's from a quote by Dr. Manhattan that I love and has been dear to me through tough times.
-
-It's a scene where Dr. Manhattan tells Laurie that he doesn't think her life is meaningless while they are on Mars. It goes:
-
-> Dr. Manhattan: Thermodynamic miracles... events with odds so astronomical they're effectively impossible, like oxygen spontaneously becoming gold. I long to observe such a thing.
-> And yet, in each human coupling, a thousand million sperm vie for a single egg. Multiple those odds by countless generations, against the odds of your ancestors being alive; meeting; siring this precise son; that exact daughter...
->
-> ...Until your mother loves a man she has every reason to hate, and of that union, of the thousand million children competing for fertilization, it was you, only you, that emerged.
->
-> To distill so specific a form from that chaos of improbability, like turning air to gold... that is the crowning unlikelihood.
->
-> The thermodynamic miracle.
->
-> Laurie: But... if me, my birth, if that's a thermodynamic miracle... I mean, you could say that about anybody in the world.
->
-> Dr. Manhattan: Yes. Anybody in the world. But the world is so full of people, so crowded with these miracles that they become commonplace and we forget.
->
-> I forget.
->
-> We gaze continuously at the world and it grows dull in our perceptions. Yet seen from another's vantage point, as if new, it may still take the breath away.
->
-> Come... Dry your eyes, for you are life, rare than a quark and unpredictable beyond the dreams of Heisenberg; the clay in which the forces that shape all things leave their fingerprints most clearly.
->
-> Dry your eyes... and let's go home.
