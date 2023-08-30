@@ -4,9 +4,14 @@ title: About
 permalink: /about
 ---
 
-### Hi, my name is Grace.
+### Hi, my name is [Grace](https://linktr.ee/gyudon).
 
-I am a software engineer at Riot Games. I joined in January 2020, and also interned the year before in the summer of 2019. I am currently a software engineer on the Gateway team in Esports Digital, and in June 2021 I will be moving to VALORANT's Social and Player Dynamics team. I studied computer science with a minor in mathematical sciences at Carnegie Mellon University, and graduated December 2019. Hopefully out to do good in this world.
+I am a software engineer at Riot Games, currently on the Premier team. I joined full-time in January 2020 after interning in the summer of 2019, and I studied computer science at Carnegie Mellon University with a minor in mathematical sciences before that. I am hopefully out to do good in this world.
+
+Before that, I have been on:
+- 2022-now: Competitive / Premier (VALORANT)
+- 2021-2022: Social and Player Dynamics (VALORANT)
+- Summer 2019, 2020-2021: Esports Digital
 
 ### Why does this place exist?
 
@@ -48,20 +53,15 @@ I've always loved writing. So there's a very personal reason why this place exis
 But there's also some things that I like to believe I have to say, and perhaps some people out there who might
 find it mildly valuable. And while I still have that feeling, I'll keep this place alive.
 
-### Current Goals (last updated 01/03/2021)
+### Current Goals
 
-- Complete the 100 Days of Code challenge
-- Read 12 books
-  - Finished: Water for Elephants by Sara Gruen (sometime in October 2019). 
-  - Finished: The Three Body Problem by Liu Cixin (sometime in November 2019).
-  - Finished: Never Let Me Go by Kazuo Ishiguro (11/28/2019).
-  - Finished: Algorithms to Live By Brian Christian and Tom Griffiths (12/30/2020).
-- Exercise regularly
-- Produce more content (posting on my hobby Instagram, making more videos, writing more posts and write-ups)
+- to be updated 
 
 ### Interests
 
-- Gaming (StarCraft, League of Legends, VALORANT?)
+- Gaming (StarCraft, League of Legends, VALORANT)
+- Ceramics
+- Language learning
 - Functional programming
 - Machine learning
 - Computer systems
@@ -69,8 +69,8 @@ find it mildly valuable. And while I still have that feeling, I'll keep this pla
 - Drawing (sketching, watercolor, acrylic, charcoal)
 - Singing
 - Cooking
-- Water rights and the environment (read _The Ripple Effect_ by Alex Prud'Homme)
-- Reading (book reviews incoming, hopefully)
+- Water rights and the environment 
+- [Reading](https://www.goodreads.com/user/show/146135181-grace-yu)
 - Biology
 - Writing
 - [Saving the web](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)
