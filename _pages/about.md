@@ -6,7 +6,7 @@ permalink: /about
 
 ### Hi, my name is [Grace](https://linktr.ee/gyudon).
 
-I am a software engineer at Riot Games, currently on the Premier team. I joined full-time in January 2020 after interning in the summer of 2019, and I studied computer science at Carnegie Mellon University with a minor in mathematical sciences before that. I am hopefully out to do good in this world.
+I am a software engineer at Riot Games, currently on the Premier team. I joined full-time in January 2020 after interning in the summer of 2019, and I studied computer science at Carnegie Mellon University with a minor in mathematical sciences before that.
 
 Before that, I have been on:
 - 2022-now: Competitive / Premier (VALORANT)
@@ -74,7 +74,8 @@ find it mildly valuable. And while I still have that feeling, I'll keep this pla
 - Biology
 - Writing
 - [Saving the web](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)
-- Trying to become an informed citizen of the world
+- Trying to become an informed citizen of the world 
+- Doing good things
 
 ### Images
 
