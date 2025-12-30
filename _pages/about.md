@@ -6,12 +6,10 @@ permalink: /about
 
 ### Hi, my name is [Grace](https://linktr.ee/gyudon).
 
-I am a software engineer at Riot Games, currently on the Premier team. I joined full-time in January 2020 after interning in the summer of 2019, and I studied computer science at Carnegie Mellon University with a minor in mathematical sciences before that.
+I am a software engineer at Riot Games, currently on the Premier team. I joined full-time in January 2020 after interning in the summer of 2019, and I studied computer science at Carnegie Mellon University with a minor in mathematical sciences before that. 
+I briefly interned at Uber ATG in the summer of 2018. 
 
-Before that, I have been on:
-- 2022-now: Competitive / Premier (VALORANT)
-- 2021-2022: Social and Player Dynamics (VALORANT)
-- Summer 2019, 2020-2021: Esports Digital
+I am currently pursuing my Master's degree in Computer Science and Engineering through the [University of Washington's Professional Master's Program](https://www.cs.washington.edu/academics/graduate/pmp/). 
 
 ### Why does this place exist?
 
@@ -39,7 +37,7 @@ This is taken from Manuel Blum's [_Advice to a Beginning Graduate Student_](http
 >
 > With writing you have the extraordinary power of a Turing machine.
 
-And here is a quote from John Shaw Billings that he shares:
+From John Shaw Billings:
 
 > First have something to say,
 >
@@ -49,21 +47,13 @@ And here is a quote from John Shaw Billings that he shares:
 >
 > Finally give it an accurate title."
 
-I've always loved writing. So there's a very personal reason why this place exists, which is for my own enjoyment.
-But there's also some things that I like to believe I have to say, and perhaps some people out there who might
-find it mildly valuable. And while I still have that feeling, I'll keep this place alive.
-
-### Current Goals
-
-- to be updated 
-
 ### Interests
 
 - Gaming (StarCraft, League of Legends, VALORANT)
 - Ceramics
 - Language learning
 - Functional programming
-- Machine learning
+- Machine learning and AI
 - Computer systems
 - Piano
 - Drawing (sketching, watercolor, acrylic, charcoal)
